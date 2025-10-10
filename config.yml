@@ -1,4 +1,4 @@
-baseURL: 'https://wayism.github.io/caminismo'  # Will change to caminismo.com later
+baseURL: 'https://caminismo.org'  # Will change to caminismo.com later //wayism.github.io/caminismo
 languageCode: es-MX
 title: 'Caminismo - elCAMINO'
 defaultContentLanguage: es
