@@ -81,7 +81,7 @@ Si está interesado en ayudar con traducciones futuras o tiene experiencia en:
 - Diseño gráfico para publicaciones
 - Distribución de libros
 
-**Contacte: admin@wayist.life**
+**Contacte: cominidad moderator wayist.life**
 
 ---
 

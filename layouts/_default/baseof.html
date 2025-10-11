@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
     <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
-    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "/css/style.css" | absURL }}">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 	<meta http-equiv="Pragma" content="no-cache">
 	<meta http-equiv="Expires" content="0">
@@ -36,7 +36,7 @@
     </main>
     
     <footer>
-        <p>&copy; 2025 Caminismo. Sabiduría antigua para buscadores modernos.</p>
+        <p>&copy; 2025 Caminismo. Wayism. Sabiduría antigua para buscadores modernos.</p>
     </footer>
 </body>
 </html>
