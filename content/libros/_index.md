@@ -70,7 +70,7 @@ Para acceder a la biblioteca completa de títulos Wayist/Caminista (en inglés y
 
 ### Distribución Física  
 - **Librerías en línea:** Amazon, Google Books, Apple Books
-- **Pedidos especiales:** Contacte admin@wayist.life para pedidos al por mayor
+- **Pedidos especiales:** Comuníquese con un moderador en línea en wayist.life para realizar pedidos al por mayor
 - **Bibliotecas:** Solicite que su biblioteca local adquiera copias
 
 ## Para Traductores y Colaboradores
