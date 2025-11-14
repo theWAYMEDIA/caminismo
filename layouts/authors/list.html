@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<div class="authors-list">
+  {{ $authorPages := where .Site.RegularPages "Section" "authors" }}
+  {{ range $authorPages }}
+  <div class="author-card">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    {{ if .Params.bio }}
+    <p>{{ .Params.bio | truncate 150 }}</p>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

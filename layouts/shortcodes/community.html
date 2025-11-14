@@ -1,0 +1,63 @@
+{{/*
+  Community Invitation Shortcode
+  Displays a formatted call-to-action to join the Wayist community
+  
+  Usage:
+  {{< community title="Join Title" text="Invitation text here" >}}
+*/}}
+
+<div class="community-invite" style="
+  margin: 2.5rem 0;
+  padding: 2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+  color: white;
+  text-align: center;
+">
+  <h3 style="
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: white;
+  ">
+    {{ .Get "title" | default "Únete a la Comunidad" }}
+  </h3>
+  
+  <p style="
+    margin: 0 0 1.5rem 0;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.95);
+  ">
+    {{ .Get "text" | default "Conéctate con otros buscadores en el camino espiritual." }}
+  </p>
+  
+  <a href="https://wayist.life" 
+     target="_blank"
+     rel="noopener noreferrer"
+     class="community-button"
+     style="
+       display: inline-block;
+       padding: 0.75rem 2rem;
+       background: white;
+       color: #667eea;
+       text-decoration: none;
+       font-weight: 600;
+       border-radius: 50px;
+       transition: all 0.3s ease;
+       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+     "
+     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.3)'"
+     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.2)'">
+    Únete a Wayist.Life →
+  </a>
+  
+  <div style="
+    margin-top: 1.5rem;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.8);
+  ">
+    🦋 Membresía gratuita • Apoyo comunitario • Sabiduría compartida
+  </div>
+</div>

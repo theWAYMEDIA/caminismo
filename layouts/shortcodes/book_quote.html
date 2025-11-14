@@ -1,0 +1,59 @@
+{{/*
+  Book Quote Shortcode
+  Displays a formatted quote from a Wayist book with attribution
+  
+  Usage:
+  {{< book_quote book="Book Title" author="Author Name" link="https://book-url.com" >}}
+  Quote text goes here...
+  {{< /book_quote >}}
+*/}}
+
+<div class="book-quote" style="
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border-left: 4px solid #667eea;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+">
+  <blockquote style="
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-style: italic;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #2d3748;
+  ">
+    {{ .Inner | markdownify }}
+  </blockquote>
+  
+  <div class="book-attribution" style="
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(102, 126, 234, 0.3);
+    font-size: 0.9rem;
+    color: #4a5568;
+  ">
+    <strong style="color: #667eea;">{{ .Get "book" }}</strong>
+    {{ with .Get "author" }}
+      <span style="color: #718096;"> por {{ . }}</span>
+    {{ end }}
+    {{ with .Get "link" }}
+      <a href="{{ . }}" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         style="
+           display: inline-block;
+           margin-left: 0.5rem;
+           color: #667eea;
+           text-decoration: none;
+           font-weight: 500;
+         "
+         onmouseover="this.style.textDecoration='underline'"
+         onmouseout="this.style.textDecoration='none'">
+        → Leer más
+      </a>
+    {{ end }}
+  </div>
+</div>

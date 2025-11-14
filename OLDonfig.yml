@@ -1,17 +1,13 @@
-baseURL: 'https://caminismo.org'
+baseURL: 'https://caminismo.org'  # //wayism.github.io/caminismo
 languageCode: es-MX
 title: 'Caminismo - elCAMINO'
 defaultContentLanguage: es
 
-# Custom parameters
+# Custom parameters for Caminismo site
 params:
   description: "La filosofía espiritual Wayist en español - Descubra el propósito de la vida y el camino hacia la transformación espiritual"
   keywords: [caminismo, wayismo, espiritualidad, filosofía, meditación, dharma, karma, camino espiritual]
   author: "Comunidad Caminista"
-
-# DISABLE automatic section menu
-# We'll control the menu manually
-sectionPagesMenu: ""
 
 # Menu configuration
 menu:
@@ -20,41 +16,22 @@ menu:
       name: Inicio
       url: /
       weight: 10
-      
-    - identifier: comienza-aqui
-      name: Comienza Aquí
-      url: /comienza-aqui/
+    - identifier: acerca
+      name: Acerca de Caminismo
+      url: /acerca/
       weight: 20
-      
-    - identifier: filosofia
-      name: Filosofía
-      url: /filosofia/
+    - identifier: ensenanza
+      name: Enseñanza Principal
+      url: /ensenanza/
       weight: 30
-      
-    - identifier: practica
-      name: Práctica
-      url: /practica/
-      weight: 40
-      
-    - identifier: sanacion
-      name: Sanación y Energía
-      url: /sanacion-energia/
-      weight: 50
-      
-    - identifier: faq
-      name: FAQ
-      url: /faq/
-      weight: 60
-      
     - identifier: libros
       name: Libros
       url: /libros/
-      weight: 70
-      
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 80
+      weight: 40
+    - identifier: comunidad
+      name: Comunidad
+      url: https://wayist.life
+      weight: 50
 
 # Build settings
 markup:

@@ -35,8 +35,22 @@
         {{ block "main" . }}{{ end }}
     </main>
     
-    <footer>
-        <p>&copy; 2025 Caminismo. Wayism. Sabiduría antigua para buscadores modernos.</p>
-    </footer>
+<footer style="background: #f8f9fa; padding: 2rem 0; margin-top: 3rem; border-top: 1px solid #dee2e6;">
+		<div style="max-width: 1200px; margin: 0 auto; text-align: center;">
+        <p style="margin: 0.5rem 0;">
+            &copy; 2025 <a href="{{ "acerca" | relLangURL }}" style="color: #667eea; text-decoration: none;">Caminismo A.C. Mexico</a>
+        </p>
+        <p style="margin: 0.5rem 0; color: #666;">
+            Parte de <a href="https://wayism.org" target="_blank" rel="noopener noreferrer" style="color: #667eea; text-decoration: none;">Wayism</a> • 
+            Sabiduría antigua para buscadores modernos
+        </p>
+        <p style="margin: 0.5rem 0; font-size: 0.9rem;">
+            <a href="https://wayist.life" target="_blank" rel="noopener noreferrer" style="color: #667eea; text-decoration: none;">Comunidad</a> • 
+            <a href="{{ "glosario" | relLangURL }}" style="color: #667eea; text-decoration: none;">Glosario</a> • 
+            <a href="{{ "faq" | relLangURL }}" style="color: #667eea; text-decoration: none;">FAQ</a>
+        </p>
+    </div>
+</footer>
+   
 </body>
 </html>

@@ -1,0 +1,187 @@
+{{ define "main" }}
+
+{{ if eq .Section "authors" }}
+<!-- This is an author page -->
+
+<!-- DEBUG INFO - Uncomment if needed for troubleshooting -->
+<!--
+<p>Title: {{ .Title }}</p>
+<p>Kind: {{ .Kind }}</p>
+<p>Type: {{ .Type }}</p>
+<p>Section: {{ .Section }}</p>
+-->
+
+{{ if .Params.bio }}
+<!-- <h2>Found Author Data!</h2> -->
+<div class="author-profile">
+  <header class="author-header">
+    {{ if .Params.image }}
+    <div class="author-image">
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" />
+    </div>
+    {{ end }}
+    <div class="author-info">
+      <h1 class="author-name">{{ .Title }}</h1>
+      <p class="author-bio">{{ .Params.bio | markdownify }}</p>
+    </div>
+  </header>
+
+  <div class="author-content">
+    {{ .Content }}
+  </div>
+
+  {{ if .Params.specialties }}
+  <section class="author-specialties">
+    <h3>Areas of Expertise</h3>
+    <ul>
+      {{ range .Params.specialties }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  {{ if .Params.wayist_path }}
+  <section class="author-path">
+    <h3>Wayist Journey</h3>
+    <p>{{ .Params.wayist_path | markdownify }}</p>
+  </section>
+  {{ end }}
+
+  {{ if .Params.training }}
+  <section class="author-training">
+    <h3>Training & Development</h3>
+    <p>{{ .Params.training | markdownify }}</p>
+  </section>
+  {{ end }}
+</div>
+{{ else }}
+<h2>No Author Data Found</h2>
+{{ end }}
+
+<!-- Find articles by this author -->
+<h2>Articles by {{ .Title }}</h2>
+{{ $author := .Title }}
+{{ $posts := where .Site.RegularPages "Params.author" $author }}
+{{ if $posts }}
+{{ range $posts }}
+<p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+{{ end }}
+{{ else }}
+<p>No articles found for {{ $author }}</p>
+{{ end }}
+
+{{ else }}
+<!-- This is NOT an author page - use simple layout for posts -->
+<article class="post-content">
+  <h1>{{ .Title }}</h1>
+  <div class="post-meta">
+    {{ if .Date }}
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ end }}
+    {{ if .Params.author }}
+    <span class="author">by {{ .Params.author }}</span>
+    {{ end }}
+  </div>
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
+
+<style>
+.author-profile {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.author-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.author-image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #8b6914;
+}
+
+.author-info {
+  flex: 1;
+}
+
+.author-name {
+  color: #5d4e37;
+  margin-bottom: 0.5rem;
+}
+
+.author-bio {
+  font-size: 1.1em;
+  color: #666;
+  line-height: 1.6;
+}
+
+.author-content {
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+
+.author-specialties,
+.author-path,
+.author-training {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: #f9f7f4;
+  border-left: 4px solid #8b6914;
+  border-radius: 4px;
+}
+
+.author-specialties h3,
+.author-path h3,
+.author-training h3 {
+  color: #5d4e37;
+  margin-bottom: 1rem;
+}
+
+.author-specialties ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.author-specialties li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e8e2d5;
+}
+
+.post-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.post-meta {
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+  .author-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .author-image img {
+    width: 120px;
+    height: 120px;
+  }
+}
+</style>
+{{ end }}

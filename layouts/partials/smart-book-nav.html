@@ -1,0 +1,25 @@
+<!-- layouts/partials/smart-book-nav.html -->
+{{ $bookSection := .Parent }}
+{{ $allPages := where $bookSection.Pages "Kind" "page" }}
+{{ $sortedPages := sort $allPages "Weight" }}
+
+<div class="book-navigation">
+  {{ $currentIndex := 0 }}
+  {{ range $index, $page := $sortedPages }}
+    {{ if eq $page.RelPermalink $.RelPermalink }}
+      {{ $currentIndex = $index }}
+    {{ end }}
+  {{ end }}
+  
+  {{ if gt $currentIndex 0 }}
+    {{ $prevPage := index $sortedPages (sub $currentIndex 1) }}
+    <a href="{{ $prevPage.RelPermalink }}" class="nav-prev">← {{ $prevPage.Title }}</a>
+  {{ end }}
+  
+  <a href="{{ $bookSection.RelPermalink }}" class="nav-main">📚 {{ $bookSection.Title }}</a>
+  
+  {{ if lt $currentIndex (sub (len $sortedPages) 1) }}
+    {{ $nextPage := index $sortedPages (add $currentIndex 1) }}
+    <a href="{{ $nextPage.RelPermalink }}" class="nav-next">{{ $nextPage.Title }} →</a>
+  {{ end }}
+</div>

@@ -1,0 +1,303 @@
+{{ define "main" }}
+<h1>DEBUG INFO - AUTHORS/TERM.HTML</h1>
+<p>Author Slug: {{ .Title }}</p>
+<p>Looking for: /authors/{{ .Title }}</p>
+
+{{ $authorPage := .Site.GetPage (printf "/authors/%s" .Title) }}
+{{ if $authorPage }}
+<p>✅ Found author page!</p>
+<p>Author Title: {{ $authorPage.Title }}</p>
+<p>Author Bio: {{ $authorPage.Params.bio }}</p>
+
+<!-- Author Profile Content -->
+<article class="author-profile">
+  <header class="author-header">
+    {{ if $authorPage.Params.image }}
+    <div class="author-image">
+      <img src="{{ $authorPage.Params.image | relURL }}" alt="{{ $authorPage.Title }}" />
+    </div>
+    {{ end }}
+    <div class="author-info">
+      <h1 class="author-name">{{ $authorPage.Title }}</h1>
+      {{ if $authorPage.Params.bio }}
+      <p class="author-bio">{{ $authorPage.Params.bio | markdownify }}</p>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="author-content">
+    {{ $authorPage.Content }}
+  </div>
+
+  {{ if $authorPage.Params.specialties }}
+  <section class="author-specialties">
+    <h3>Areas of Expertise</h3>
+    <ul>
+      {{ range $authorPage.Params.specialties }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  {{ if $authorPage.Params.wayist_path }}
+  <section class="author-path">
+    <h3>Wayist Journey</h3>
+    <p>{{ $authorPage.Params.wayist_path | markdownify }}</p>
+  </section>
+  {{ end }}
+
+  {{ if $authorPage.Params.training }}
+  <section class="author-training">
+    <h3>Training & Development</h3>
+    <p>{{ $authorPage.Params.training | markdownify }}</p>
+  </section>
+  {{ end }}
+
+  {{ if $authorPage.Params.books }}
+  <section class="author-books">
+    <h3>Published Works</h3>
+    <ul>
+      {{ range $authorPage.Params.books }}
+      <li><a href="{{ .url }}" target="_blank">{{ .title }}</a></li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+</article>
+
+{{ else }}
+<p>❌ Could not find author page</p>
+<p>Available pages in authors section:</p>
+<ul>
+{{ range (where .Site.Pages "Section" "authors") }}
+<li>{{ .RelPermalink }} - {{ .Title }}</li>
+{{ end }}
+</ul>
+{{ end }}
+
+<!-- Articles by this author -->
+<section class="author-articles">
+  <h2>Articles by {{ .Title | humanize | title }}</h2>
+  {{ $posts := .Pages }}
+  {{ if $posts }}
+  <div class="posts-list">
+    {{ range $posts }}
+    <article class="post-preview">
+      {{ if .Params.featured_image }}
+      <div class="post-image">
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}" />
+        </a>
+      </div>
+      {{ end }}
+      <div class="post-content">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <div class="post-meta">
+          <time>{{ .Date.Format "January 2, 2006" }}</time>
+          {{ if .Params.category }}
+          <span class="category">{{ .Params.category }}</span>
+          {{ end }}
+        </div>
+        {{ if .Params.excerpt }}
+        <p class="excerpt">{{ .Params.excerpt }}</p>
+        {{ end }}
+        <a href="{{ .Permalink }}" class="read-more">Read More</a>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+  {{ else }}
+  <p>Articles by {{ .Title | humanize | title }} will appear here as they are published.</p>
+  {{ end }}
+</section>
+
+<style>
+.author-profile {
+  max-width: 800px;
+  margin: 0 auto 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.author-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.author-image img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #8b6914;
+}
+
+.author-info {
+  flex: 1;
+}
+
+.author-name {
+  color: #5d4e37;
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+}
+
+.author-bio {
+  font-size: 1.1em;
+  color: #666;
+  line-height: 1.6;
+}
+
+.author-content {
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+
+.author-specialties,
+.author-path,
+.author-training,
+.author-books {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: #f9f7f4;
+  border-left: 4px solid #8b6914;
+  border-radius: 4px;
+}
+
+.author-specialties h3,
+.author-path h3,
+.author-training h3,
+.author-books h3 {
+  color: #5d4e37;
+  margin-bottom: 1rem;
+}
+
+.author-specialties ul,
+.author-books ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.author-specialties li,
+.author-books li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #e8e2d5;
+}
+
+.author-specialties li:last-child,
+.author-books li:last-child {
+  border-bottom: none;
+}
+
+.author-articles {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.author-articles h2 {
+  color: #5d4e37;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.posts-list {
+  display: grid;
+  gap: 2rem;
+}
+
+.post-preview {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.post-image {
+  flex: 0 0 200px;
+}
+
+.post-image img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.post-content {
+  flex: 1;
+}
+
+.post-content h3 {
+  margin-bottom: 0.5rem;
+}
+
+.post-content h3 a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.post-content h3 a:hover {
+  color: #8b6914;
+}
+
+.post-meta {
+  color: #8b6914;
+  font-size: 0.9em;
+  margin-bottom: 1rem;
+}
+
+.post-meta .category {
+  margin-left: 1rem;
+  padding: 0.2rem 0.5rem;
+  background: #f4f1eb;
+  border-radius: 3px;
+}
+
+.excerpt {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.read-more {
+  background-color: #8b6914;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.read-more:hover {
+  background-color: #b8860b;
+}
+
+@media (max-width: 768px) {
+  .author-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .author-image img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .post-preview {
+    flex-direction: column;
+  }
+
+  .post-image {
+    flex: none;
+  }
+}
+</style>
+{{ end }}

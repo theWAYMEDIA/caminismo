@@ -74,7 +74,7 @@ Sí, porque **todos los humanos caminan el Camino de la Mariposa**—cada person
 
 Pero no, porque **no todos están listos para esta comprensión**. Caminismo requiere pensamiento, auto-reflexión, responsabilidad personal y autoexamen honesto. No ofrece salvador externo, no atajos, no "solo reza y cree." Debes hacer el trabajo de auto-artesanía.
 
-Las estimaciones sugieren que los Caministas comprenden aproximadamente el 2.5% de la población mundial, y esta enseñanza atrae a quizás el 5% de quienes la encuentran. Esto es natural—es un currículum avanzado adecuado para estudiantes avanzados en la escuela de divinidad.
+Las estimaciones sugieren que los Caministas comprenden aproximadamente el 2.5% de la población mundial, y esta enseñanza atrae a quizás el 5% de quienes la encuentran. Esto es natural—es un currículo avanzado adecuado para estudiantes avanzados en la escuela de divinidad.
 
 ### El Camino Universal de los Místicos
 
@@ -88,7 +88,7 @@ Y innumerables otros a través de todas las tierras y eras...
 
 Estos seres despiertos—separados por siglos, geografía y cultura—todos llegaron a realizaciones idénticas sobre la existencia, el propósito y el camino hacia la asociación divina. Esta convergencia no es coincidencia. Es evidencia de que Caminismo describe la realidad como realmente es, descubierta por aquellos que miraron suficientemente profundo.
 
-**Quizás no estés listo ahora.** Eso es perfectamente natural. Tu currículum puede requerir otras experiencias primero. Pero eventualmente—ya sea en esta vida o en una futura—todas las almas llegan a esta misma comprensión. Los místicos lo probaron a través de cinco mil años de historia humana.
+**Quizás no estés listo ahora.** Eso es perfectamente natural. Tu currículo puede requerir otras experiencias primero. Pero eventualmente—ya sea en esta vida o en una futura—todas las almas llegan a esta misma comprensión. Los místicos lo probaron a través de cinco mil años de historia humana.
 
 ---
 
@@ -112,11 +112,10 @@ Estos seres despiertos—separados por siglos, geografía y cultura—todos lleg
 
 Cuando estés listo para comprender el Camino de la Mariposa más profundamente:
 
-- **[Comienza Aquí](/comienza-aqui/)** - Tu guía de introducción completa al Caminismo
-- [¿Qué es Realmente el Karma?](/filosofia/karma/) - No castigo, sino tu currículum personalizado
-- [El Viaje del Alma](/filosofia/evolucion-del-alma/) - Por qué nos encarnamos como humanos
-- [Viviendo Caminismo Diariamente](/practica/sabiduria-diaria/) - Aplicaciones prácticas para la vida moderna
-- [Comprendiendo Etapas del Alma](/filosofia/etapas-del-alma/) - Dónde estás en el camino
+- [¿Qué es Realmente el Karma?](/es/filosofia/karma/) - No castigo, sino tu currículo personalizado
+- [El Viaje del Alma](/es/filosofia/evolucion-del-alma/) - Por qué nos encarnamos como humanos
+- [Viviendo Caminismo Diariamente](/es/practica/sabiduria-diaria/) - Aplicaciones prácticas para la vida moderna
+- [Comprendiendo Etapas del Alma](/es/filosofia/etapas-del-alma/) - Dónde estás en el camino
 
 ---
 

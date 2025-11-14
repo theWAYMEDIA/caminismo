@@ -1,0 +1,36 @@
+You're right - it's hardcoded because these are THE essential 12 concepts that form the foundation of Wayist philosophy. Smart decision to keep it as a fixed set rather than dynamic!
+
+Let me create the Spanish version:Perfect! I've created **`concept-grid-es.html`** with:
+
+## ✅ Spanish Translations:
+
+- **theWAY** → **elCAMINO** (proper Caminista terminology!)
+- **The Absolute** → **El Absoluto**
+- **The Source** → **La Fuente**
+- **Purpose of Life** → **Propósito de la Vida**
+- **Reincarnation** → **Reencarnación**
+- **Soul Sanctification** → **Santificación del Alma**
+- **Three Dimensions** → **Tres Dimensiones**
+- **Paradise** → **Paraíso**
+- **God in Heaven** → **Dios en el Cielo**
+- **Spirit Heaven** → **Cielo Espiritual**
+
+## 📁 Expected Spanish Page URLs:
+
+When you translate those philosophy articles, these will be the Spanish paths:
+- `/filosofia/elcamino/`
+- `/filosofia/absoluto/`
+- `/filosofia/fuente/`
+- `/filosofia/proposito-vida/`
+- `/filosofia/karma/`
+- `/filosofia/maya/`
+- `/filosofia/reencarnacion/`
+- `/filosofia/santificacion-alma/`
+- `/filosofia/tres-dimensiones/`
+- `/filosofia/paraiso/`
+- `/filosofia/dios-cielo/`
+- `/filosofia/cielo-espiritual/`
+
+Just make sure the Spanish article slugs match these when you create them! 🦋
+
+Deploy to: `/layouts/shortcodes/concept-grid-es.html`
