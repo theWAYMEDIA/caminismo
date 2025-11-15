@@ -5,7 +5,7 @@ keywords: ["caminismo", "caminista", "camino de la mariposa", "evolución del al
 ---
 
 <div style="float: right; margin: 0 0 1rem 2rem; max-width: 200px;">
-<img src="/images/general/theWAY-Wayism-logo-812px.jpg" 
+<img src="/images/general/caminismo_logo.png" 
      alt="Caminismo el Camino de la Mariposa" 
      style="width: 100%; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
