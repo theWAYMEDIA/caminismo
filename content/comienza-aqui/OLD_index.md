@@ -6,6 +6,10 @@ draft: false
 layout: "single"
 toc: true
 weight: 1
+menu:
+  main:
+    name: "Comienza Aquí"
+    weight: 2
 ---
 
 # Bienvenido al Caminismo
