@@ -2,7 +2,7 @@
 title: "La Práctica del Amanecer: Sabiduría Ancestral para la Vida Moderna"
 author: "Jean Prieur du Plessis"
 date: 2025-01-21
-category: "Práctica Espiritual"
+category: ["Práctica Espiritual"]
 tags: ["Amanecer", "Práctica Matutina", "Ritual del Agua", "Consciencia Plena", "Práctica Diaria"]
 excerpt: "Descubre los profundos beneficios espirituales ocultos en el simple acto de lavarte la cara cada mañana—el único ritual sagrado del Caminismo que cualquiera puede practicar."
 word_count: 1100

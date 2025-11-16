@@ -39,7 +39,11 @@
                                 {{ .Date.Day }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Year }}
                             </time>
                             {{ with .Params.category }}
-                                <span class="category">{{ . }}</span>
+                                {{ if reflect.IsSlice . }}
+                                    <span class="category">{{ index . 0 }}</span>
+                                {{ else }}
+                                    <span class="category">{{ . }}</span>
+                                {{ end }}
                             {{ end }}
                             {{ with .Params.author }}
                                 <span class="author">por {{ . }}</span>

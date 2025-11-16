@@ -2,7 +2,7 @@
 title: "La Dignidad de los Pétalos Moribundos"
 author: "Adele du Plessis"
 date: 2025-01-21
-category: "Contemplación"
+category: ["Contemplación"]
 tags: ["Impermanencia", "Belleza", "Aceptación", "Práctica Sagrada", "Consciencia Plena"]
 excerpt: "Encontrar belleza profunda y lecciones espirituales en flores de loto marchitas en un altar casero—una meditación sobre honrar todo el arco de la existencia."
 word_count: 850

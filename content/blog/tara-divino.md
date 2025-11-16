@@ -2,12 +2,12 @@
 title: "Tu Tara Divina: La Guía Espiritual con la que Nunca Caminas Solo"
 author: "Jean Prieur du Plessis"
 date: 2025-01-21
-category: "Práctica Espiritual"
+category: ["Práctica Espiritual"]
 tags: ["Tara Divina", "Guía Espiritual", "Oración", "Meditación", "Conexión Divina"]
 excerpt: "Comprende la hermosa enseñanza caminista de que cada alma tiene una guía divina personal—tu Tara—quien camina el sendero espiritual contigo."
 word_count: 1650
 difficulty_level: "Principiante"
-related_concepts: ["Sendero de la Mariposa", "Desarrollo del Alma", "Conexión Divina", "Práctica Espiritual"]
+related_concepts: ["Sendero de la Mariposa", "Desarrollo del Alma", "Conexión Divina"]
 ---
 
 # Tu Tara Divina: La Guía Espiritual con la que Nunca Caminas Solo

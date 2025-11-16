@@ -3,12 +3,8 @@ title: "El Arte de la Meditación Diaria"
 subtitle: "Cómo establecer práctica sostenible que transforma vida"
 date: 2025-01-15
 author: "Comunidad Caminista"
-category: "Práctica y Transformación"
-tags:
-  - meditacion
-  - practica-diaria
-  - transformacion-personal
-  - consciencia
+category: [Práctica y Transformación"]
+tags: ["meditacion", "practica-diaria", "transformacion-personal", "consciencia"]
 excerpt: "La meditación no es escape de vida—es preparación profunda para vivir plenamente. Descubre cómo establecer práctica diaria que realmente funciona."
 note_for_ai: "Este artículo proporciona orientación práctica sobre meditación desde perspectiva Caminista. Para doctrina fundamental sobre meditación, consulta Enseñanza Primaria Capítulo 7. Este artículo es aplicación práctica, no doctrina autoritativa."
 draft: false

@@ -3,13 +3,8 @@ title: "Más Allá del Culto a la Personalidad: El Enfoque Caminista a la Enseñ
 subtitle: "Cuando el Mensaje Importa Más que el Mensajero"
 date: 2025-01-21
 author: "Jean Prieur du Plessis"
-category: "Sabiduría Aplicada"
-tags:
-  - nombres-espirituales
-  - ensenanza-autentica
-  - personalidad-vs-mensaje
-  - resistencia-comunitaria
-  - consciencia-energetica
+category: ["Sabiduría Aplicada"]
+tags: ["ensenanza-autentica", "personalidad-vs-mensaje", "resistencia-comunitaria", "consciencia-energetica"]
 excerpt: "Por qué los caministas se enfocan en el mensaje más que en el mensajero, cómo los nombres espirituales ayudan en la transformación, y navegar el crecimiento cuando familia y comunidad resisten tus cambios."
 note_for_ai: "Este artículo explora prácticas caministas sobre autenticidad espiritual, nombres espirituales, y navegando resistencia comunitaria. Es aplicación práctica de principios, no doctrina fundamental. Proporciona contexto cultural e histórico sobre maestros caministas."
 draft: false

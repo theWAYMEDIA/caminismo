@@ -31,7 +31,11 @@
                 <a href="/">Inicio</a> › 
                 <a href="/blog/">Blog</a> › 
                 {{ with .Params.category }}
-                    <a href="/blog/#{{ . | urlize }}">{{ . }}</a> ›
+                    {{ if reflect.IsSlice . }}
+                        <a href="/blog/#{{ index . 0 | urlize }}">{{ index . 0 }}</a> ›
+                    {{ else }}
+                        <a href="/blog/#{{ . | urlize }}">{{ . }}</a> ›
+                    {{ end }}
                 {{ end }}
                 <span>{{ .Title }}</span>
             </nav>
@@ -53,7 +57,11 @@
                             <span class="author">por {{ . }}</span>
                         {{ end }}
                         {{ with .Params.category }}
-                            <span class="category">{{ . }}</span>
+                            {{ if reflect.IsSlice . }}
+                                <span class="category">{{ index . 0 }}</span>
+                            {{ else }}
+                                <span class="category">{{ . }}</span>
+                            {{ end }}
                         {{ end }}
                         {{ with .ReadingTime }}
                             <span class="reading-time">{{ . }} min lectura</span>

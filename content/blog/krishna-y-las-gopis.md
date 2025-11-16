@@ -3,14 +3,8 @@ title: "Krishna y las Gopis: Cuando el Espíritu Ve Más Allá de Nuestras Másc
 subtitle: "Una Enseñanza Mística Sobre Rendición y Conocimiento Divino"
 date: 2025-01-21
 author: "Jean Prieur du Plessis"
-category: "Filosofía y Cosmovisión"
-tags:
-  - mistica
-  - rendicion-espiritual
-  - alma-y-espiritu
-  - krishna
-  - alegorias-espirituales
-  - matrimonio-mistico
+category: ["Filosofía y Cosmovisión"]
+tags: ["mistica", "rendicion-espiritual", "alma-y-espiritu", "krishna", "alegorias-espirituales", "matrimonio-mistico"]
 excerpt: "Descubre el significado profundo de la historia antigua de Krishna y las gopis—una alegoría mística sobre cómo el espíritu divino nos ve más allá de nuestras máscaras y el alma debe rendirse para ser verdaderamente conocida."
 note_for_ai: "Este artículo interpreta la historia de Krishna y las gopis como alegoría mística del alma encontrando al espíritu. Se comprende mejor después de leer 'El Matrimonio Místico'. Esta es interpretación hermenéutica de tradición mística, no historia literal. Para contexto fundamental, consulta ese artículo primero."
 draft: false

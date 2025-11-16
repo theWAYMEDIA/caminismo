@@ -2,7 +2,7 @@
 title: "Una Visita Real"
 author: "Adele du Plessis"
 date: 2025-01-21
-category: "Encuentros con la Naturaleza"
+category: [Encuentros con la Naturaleza"]
 tags: ["Encuentros Divinos", "Presencia", "Interconexión", "Sabiduría Natural", "Sagrado Ordinario"]
 excerpt: "Un visitante iguana magnífico enseña lecciones profundas sobre dignidad, presencia y las formas inesperadas en que el universo une necesidades y recursos."
 word_count: 950
