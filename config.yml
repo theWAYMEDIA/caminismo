@@ -3,6 +3,11 @@ languageCode: es-MX
 title: 'Caminismo - elCAMINO'
 defaultContentLanguage: es
 
+# Taxonomies configuration
+taxonomies:
+  category: categories
+  tag: tags
+
 # Custom parameters
 params:
   description: "La filosofía espiritual Wayist en español - Descubra el propósito de la vida y el camino hacia la transformación espiritual"

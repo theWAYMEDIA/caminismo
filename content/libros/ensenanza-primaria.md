@@ -272,7 +272,7 @@ Esta traducción ha sido cuidadosamente realizada siguiendo la **Guía de Estilo
 
 Para preguntas sobre la enseñanza o el estudio:
 
-- **Correo**: admin@wayist.life
+- **Correo**: admin /at/ wayist.life
 - **Comunidad**: [wayist.life](https://wayist.life)
 - **Sitio principal**: [wayism.org](https://wayism.org)
 

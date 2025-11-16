@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag: {{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="description" content="Artículos etiquetados con {{ .Title }}">
+    <link rel="stylesheet" href="/css/blog.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1><a href="/">{{ .Site.Title }}</a></h1>
+            <nav>
+                {{ range .Site.Menus.main }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+        </div>
+    </header>
+
+    <main class="blog-main">
+        <div class="container">
+            
+            <!-- Tag Header -->
+            <header class="blog-header">
+                <h1>Artículos etiquetados: #{{ .Title }}</h1>
+                <p class="blog-tagline">{{ len .Pages }} {{ if eq (len .Pages) 1 }}artículo{{ else }}artículos{{ end }} con esta etiqueta</p>
+            </header>
+
+            <!-- Articles with this tag -->
+            <section class="blog-posts">
+                {{ range .Pages.ByDate.Reverse }}
+                    <article class="post-preview">
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        
+                        <div class="post-meta">
+                            <time datetime="{{ .Date.Format "2006-01-02" }}">
+                                {{ .Date.Day }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Year }}
+                            </time>
+                            {{ with .Params.category }}
+                                <span class="category">{{ . }}</span>
+                            {{ end }}
+                            {{ with .Params.author }}
+                                <span class="author">por {{ . }}</span>
+                            {{ end }}
+                        </div>
+
+                        {{ with .Params.excerpt }}
+                            <p class="excerpt">{{ . }}</p>
+                        {{ else }}
+                            <p class="excerpt">{{ .Summary }}</p>
+                        {{ end }}
+
+                        <a href="{{ .Permalink }}" class="read-more">Leer más →</a>
+                    </article>
+                {{ end }}
+            </section>
+
+            <!-- Back to blog -->
+            <div class="back-to-blog" style="text-align: center; margin-top: 3rem;">
+                <a href="/blog/">← Volver al Blog</a>
+            </div>
+
+            <!-- All tags sidebar -->
+            <aside class="blog-categories" style="margin-top: 3rem;">
+                <h2>Todas las Etiquetas</h2>
+                <div class="tags">
+                    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+                        <a href="/tags/{{ $name | urlize }}" class="tag">
+                            #{{ $name }} ({{ len $taxonomy }})
+                        </a>
+                    {{ end }}
+                </div>
+            </aside>
+
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>🦋 {{ .Site.Params.author }} | <a href="/faq/">FAQ</a> | <a href="/glosario/">Glosario</a> | <a href="https://wayist.life">Comunidad</a></p>
+        </div>
+    </footer>
+</body>
+</html>

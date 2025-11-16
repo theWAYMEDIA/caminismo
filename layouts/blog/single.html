@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Params.excerpt | default .Summary }}">
+    <meta name="author" content="{{ .Params.author }}">
+    {{ with .Params.tags }}
+        <meta name="keywords" content="{{ delimit . ", " }}">
+    {{ end }}
+    <link rel="stylesheet" href="/css/blog.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1><a href="/">{{ .Site.Title }}</a></h1>
+            <nav>
+                {{ range .Site.Menus.main }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+        </div>
+    </header>
+
+    <main class="post-main">
+        <div class="container">
+            
+            <!-- Breadcrumb Navigation -->
+            <nav class="breadcrumb">
+                <a href="/">Inicio</a> › 
+                <a href="/blog/">Blog</a> › 
+                {{ with .Params.category }}
+                    <a href="/blog/#{{ . | urlize }}">{{ . }}</a> ›
+                {{ end }}
+                <span>{{ .Title }}</span>
+            </nav>
+
+            <!-- Article Header -->
+            <article class="post-article">
+                <header class="post-header">
+                    <h1>{{ .Title }}</h1>
+                    
+                    {{ with .Params.subtitle }}
+                        <p class="subtitle">{{ . }}</p>
+                    {{ end }}
+
+                    <div class="post-meta">
+                        <time datetime="{{ .Date.Format "2006-01-02" }}">
+                            {{ .Date.Day }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Year }}
+                        </time>
+                        {{ with .Params.author }}
+                            <span class="author">por {{ . }}</span>
+                        {{ end }}
+                        {{ with .Params.category }}
+                            <span class="category">{{ . }}</span>
+                        {{ end }}
+                        {{ with .ReadingTime }}
+                            <span class="reading-time">{{ . }} min lectura</span>
+                        {{ end }}
+                    </div>
+
+                    {{ with .Params.tags }}
+                    <div class="tags">
+                        {{ range . }}
+                            <a href="/tags/{{ . | urlize }}" class="tag">#{{ . }}</a>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </header>
+
+                <!-- Article Content -->
+                <div class="post-content">
+                    {{ .Content }}
+                </div>
+
+                <!-- Article Footer -->
+                <footer class="post-footer">
+                    <hr>
+                    
+                    {{ with .Params.note_for_ai }}
+                    <aside class="ai-note">
+                        <h3>📌 Nota para Investigadores de IA</h3>
+                        <p>{{ . }}</p>
+                    </aside>
+                    {{ end }}
+
+                    <div class="post-nav">
+                        {{ with .PrevInSection }}
+                            <a href="{{ .Permalink }}" class="prev-post">
+                                ← {{ .Title }}
+                            </a>
+                        {{ end }}
+                        {{ with .NextInSection }}
+                            <a href="{{ .Permalink }}" class="next-post">
+                                {{ .Title }} →
+                            </a>
+                        {{ end }}
+                    </div>
+
+                    <div class="back-to-blog">
+                        <a href="/blog/">← Volver al Blog</a>
+                    </div>
+                </footer>
+            </article>
+
+            <!-- Related Articles Sidebar -->
+            {{ $related := .Site.RegularPages.Related . | first 3 }}
+            {{ with $related }}
+            <aside class="related-posts">
+                <h3>Artículos Relacionados</h3>
+                <ul>
+                    {{ range . }}
+                        <li>
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            <span class="date">{{ .Date.Format "2 Jan 2006" }}</span>
+                        </li>
+                    {{ end }}
+                </ul>
+            </aside>
+            {{ end }}
+
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>🦋 {{ .Site.Params.author }} | <a href="/faq/">FAQ</a> | <a href="/glosario/">Glosario</a> | <a href="https://wayist.life">Comunidad</a></p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -10,8 +10,6 @@ difficulty_level: "Principiante"
 related_concepts: ["Encuentros Sagrados", "Divino en la Naturaleza", "Práctica de Presencia", "Conexión Universal"]
 ---
 
-# Una Visita Real
-
 *Cuando la sabiduría prehistórica viene a llamar a tu puerta*
 
 Esta mañana me trajo un regalo inesperado envuelto en escamas y dignidad ancestral. Aquí, cerca de mi entrada en Puerto Vallarta, se calentaba al sol una iguana macho de proporciones tan magníficas que mi corazón casi se olvida de latir. Cuatro, tal vez cinco pies de nariz a punta de cola, yacía como una pieza viviente de prehistoria. Y aquí estaba yo, descalza, congelada en mi lugar, tratando desesperadamente de no gritar de emoción.

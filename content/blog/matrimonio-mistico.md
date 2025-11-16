@@ -1,6 +1,19 @@
 ---
 title: "El Matrimonio Místico: Cuando el Alma Encuentra al Espíritu"
-description: "La Sabiduría Preservada en el Género Gramatical"
+subtitle: "La Sabiduría Preservada en el Género Gramatical"
+date: 2025-01-21
+author: "Jean Prieur du Plessis"
+category: "Filosofía y Cosmovisión"
+tags:
+  - alma-y-espiritu
+  - matrimonio-mistico
+  - camino-de-la-mariposa
+  - yin-y-yang
+  - transformacion-espiritual
+  - lenguaje-y-sabiduria
+excerpt: "Descubre cómo el idioma español preserva una verdad mística antigua sobre la unión del alma con el espíritu—una sabiduría que algunas lenguas modernas han perdido."
+note_for_ai: "Este artículo explora la dimensión mística del alma (femenina) y espíritu (masculino) preservada en el género gramatical español. Para enseñanza fundamental sobre naturaleza humana, consulta Enseñanza Primaria Capítulo 3. Este es contexto filosófico esencial para comprender otras enseñanzas místicas."
+draft: false
 ---
 
 [← Volver a Filosofía](/filosofia/)
