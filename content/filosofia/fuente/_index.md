@@ -3,8 +3,8 @@ title: "La Fuente - Energía Creativa Universal"
 description: "La primera expresión cognoscible del Absoluto - el manantial de toda energía, creatividad y vida"
 weight: 2
 ---
+[← Volver a Filosofía](/filosofia/)
 
-# La Fuente - Energía Creativa Universal
 
 *El manantial infinito del cual fluye toda energía creativa. La primera expresión de ESO que realmente podemos conocer, trabajar y canalizar en nuestras vidas.*
 

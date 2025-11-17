@@ -4,6 +4,8 @@ description: "Cómo la enseñanza del Absoluto transforma la experiencia diaria"
 weight: 2
 ---
 
+[← Atrás a Índice](./) | [Siguiente: Cadenas Lógicas →](cadenas-logicas)
+
 *Maneras prácticas en que la enseñanza del Absoluto transforma cómo navegamos la vida*
 
 ## El Océano y la Gota
@@ -109,3 +111,7 @@ weight: 2
 *Verdad*: Es relacionarse con la pregunta más difícil de todas - reconocer lo que yace más allá de la comprensión humana mientras aún vivimos plenamente.
 
 La enseñanza del Absoluto no se trata de renunciar a la comprensión - se trata de comprender con humildad y asombro apropiados.
+
+---
+
+[← Atrás a Índice](././) | [Siguiente: Cadenas Lógicas →](././cadenas-logicas/)

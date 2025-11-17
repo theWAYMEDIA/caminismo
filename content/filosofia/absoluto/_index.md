@@ -3,8 +3,7 @@ title: "ESO - El Absoluto"
 description: "La fuente inefable más allá de toda comprensión"
 weight: 1
 ---
-
-# ESO - El Absoluto
+[← Atrás a Filosofía](/filosofia/)
 
 *La fuente inefable más allá de toda comprensión. Reconocemos ESO que crea y sostiene todos los universos, luego mantenemos un silencio reverente.*
 
@@ -85,4 +84,12 @@ Lo Sin Nombre Desconocido, me parece,
 Es la Fuente, de algo que vemos."*  
 ~ Lalleshwari
 
+---
+
+**Explorar Más:**
+- [Ejemplos →](ejemplos/)
+- [Cadenas Lógicas →](cadenas-logicas/)
+- [Comparación con Otras Visiones →](vs-otras-visiones/)
+
 **Siguiente:** [La Fuente →](/filosofia/fuente/)
+
