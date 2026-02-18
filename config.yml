@@ -66,6 +66,11 @@ menu:
       url: /blog/
       weight: 80
 
+    - identifier: acerca
+      name: Acerca
+      url: /acerca/
+      weight: 90
+
 # Build settings
 markup:
   goldmark:
