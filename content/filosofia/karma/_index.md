@@ -4,7 +4,7 @@ description: "El sistema de asignación educativa que asegura oportunidades de a
 weight: 80
 ---
 
-[← Filosofía](/filosofia/) | 
+[← Filosofía](/filosofia/) | [Siguiente: Ejemplos →](/filosofia/karma/ejemplos/)
 
 El karma representa uno de los conceptos más malentendidos en la espiritualidad, a menudo retratado como castigo cósmico o destino arbitrario. En el entendimiento Caminista, el karma es en realidad el sistema inteligente de asignación educativa que asegura que cada alma reciba exactamente las oportunidades de aprendizaje necesarias para su desarrollo espiritual. Opera como la administración escolar más sofisticada posible: ajustando perfectamente el currículo a las necesidades del estudiante mientras respeta la elección y el ritmo individual.
 

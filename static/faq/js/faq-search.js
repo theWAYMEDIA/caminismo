@@ -27,7 +27,7 @@ class WayistFAQSearch {
 
     async loadIndex() {
         try {
-            const response = await fetch('/index.json');
+            const response = await fetch('/faq/index.json');
             this.index = await response.json();
         } catch (error) {
             console.error('Failed to load search index:', error);
@@ -90,7 +90,7 @@ class WayistFAQSearch {
                 ${faq.quick_answer ? `<p class="quick-snippet">${faq.quick_answer.substring(0, 150)}...</p>` : ''}
                 <div class="result-meta">
                     ${faq.category ? `<span class="category-tag">${faq.category}</span>` : ''}
-                    ${faq.street_level ? '<span class="street-level-tag">Street-Tested</span>' : ''}
+                    ${faq.street_level ? '<span class="street-level-tag">Aplicación Real</span>' : ''}
                 </div>
             </div>
         `).join('');

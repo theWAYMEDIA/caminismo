@@ -1,15 +1,11 @@
 {{ define "main" }}
-<!-- DEBUG: Page Type: {{ .Type }}, Kind: {{ .Kind }}, Section: {{ .Section }} -->
 <div class="faq-index">
     <h1>{{ .Title }}</h1>
-    
+
     {{ if .Content }}
     <div class="faq-description">{{ .Content }}</div>
-    {{ else }}
-    <!-- DEBUG: No content found -->
     {{ end }}
 
-    <!-- Show questions in this category -->
     <div class="category-questions">
         {{ range .Pages }}
         <div class="question-card">
@@ -21,8 +17,6 @@
             <span class="category-tag">{{ .Params.faq_category | title }}</span>
             {{ end }}
         </div>
-        {{ else }}
-        <!-- DEBUG: No pages found in this section -->
         {{ end }}
     </div>
 </div>

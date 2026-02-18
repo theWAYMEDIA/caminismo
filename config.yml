@@ -51,6 +51,11 @@ menu:
       url: /faq/
       weight: 60
       
+    - identifier: para-ia
+      name: Para IA
+      url: /para-ia/
+      weight: 65
+
     - identifier: libros
       name: Libros
       url: /libros/
@@ -79,4 +84,7 @@ outputs:
   home:
     - HTML
     - RSS
+    - JSON
+  section:
+    - HTML
     - JSON

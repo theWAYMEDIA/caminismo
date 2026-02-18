@@ -4,7 +4,7 @@ description: "Distinguiendo el orden cósmico Caminista de otros enfoques de la 
 weight: 43
 ---
 
-[← Filosofía](/filosofia/) | [← elCAMINO](/filosofia/elcamino/)
+[← Filosofía](/filosofia/) | [← elCAMINO](/filosofia/el-camino/)
 
 ## vs. Materialismo Científico
 
@@ -169,4 +169,4 @@ Esta integración hace a elCAMINO únicamente práctico para el desarrollo espir
 
 ## Navegación
 
-[← Anterior: Razonamiento Lógico](/filosofia/elcamino/cadenas-logicas/) | [↑ Volver al Inicio](/filosofia/elcamino/)
+[← Anterior: Razonamiento Lógico](/filosofia/el-camino/cadenas-logicas/) | [↑ Volver al Inicio](/filosofia/el-camino/)

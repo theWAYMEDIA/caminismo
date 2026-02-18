@@ -222,4 +222,4 @@ El libre albedrío se revela como la tecnología educativa esencial que transfor
 
 **Siguiente en Secuencia:** [← Regresar a Filosofía](/filosofia/) | [Siguiente: Ejemplos →](/filosofia/libre-albedrio/ejemplos/)
 
-- [Propósito de Vida](/filosofia/proposito-de-vida/) - Cómo encontrar significado existencial y crear sabiduría a través de experiencia diaria dentro del marco de preparación para empleo cósmico
+- [Propósito de Vida](/filosofia/proposito-vida/) - Cómo encontrar significado existencial y crear sabiduría a través de experiencia diaria dentro del marco de preparación para empleo cósmico

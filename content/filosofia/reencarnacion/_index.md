@@ -4,7 +4,7 @@ description: "Comprendiendo el viaje educativo del alma a través de múltiples 
 weight: 800
 ---
 
-[← Volver a Filosofía](/filosofia/) | [← Reencarnacion](/filosofia/reencarnacion/) [-> Ejemplos](/filosofia/reencarnacion/ejemplos.md)
+[← Volver a Filosofía](/filosofia/) | [Siguiente: Ejemplos →](/filosofia/reencarnacion/ejemplos/)
 
 La reencarnación y el Paraíso trabajan juntos como la infraestructura educativa del Camino de la Mariposa - el proceso sistemático mediante el cual las almas desarrollan la sabiduría, el carácter y las capacidades necesarias para la graduación espiritual. **La reencarnación proporciona el currículo experiencial, mientras que el Paraíso ofrece los períodos de integración y preparación necesarios para un aprendizaje óptimo.**
 
@@ -202,4 +202,4 @@ Comprender la reencarnación y el Paraíso como infraestructura educativa en lug
 
 ---
 
-[← Volver a Filosofía](/filosofia/) | [← Reencarnacion](/filosofia/reencarnacion/) [-> Ejemplos](/filosofia/reencarnacion/ejemplos.md)
+[← Volver a Filosofía](/filosofia/) | [Siguiente: Ejemplos →](/filosofia/reencarnacion/ejemplos/)

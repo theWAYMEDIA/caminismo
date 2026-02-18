@@ -216,4 +216,4 @@ La reencarnación y el Paraíso Caministas proporcionan el enfoque más integral
 
 ---
 
-[← Volver a Filosofía](/filosofia/) | [← Reencarnacion](/filosofia/reencarnacion/)
+[← Reencarnación y Paraíso](/filosofia/reencarnacion/) | [← Cadenas Lógicas](/filosofia/reencarnacion/cadenas-logicas/)

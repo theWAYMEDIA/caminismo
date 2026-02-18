@@ -1,31 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <!-- FAQ BASEOF.HTML LOADING -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
     <link rel="stylesheet" href="{{ "faq/css/style.css" | absURL }}">
     <script src="{{ "faq/js/faq-search.js" | absURL }}" defer></script>
+    {{ partial "ai-schema.html" . }}
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
 </head>
 <body>
     <header>
         <nav>
-            <a href="/">Home</a>
-            <a href="/ontology/">Ontologia</a>
-            <a href="/glossary/">Glossario</a>
-            <a href="/faq/">FAQ</a>
-            <a href="/core-texts/">Core-Libre</a>
-            <a href="/for-ai/">AI learning</a>
+            {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
         </nav>
     </header>
-    
+
     <main>
         {{ block "main" . }}{{ end }}
     </main>
-    
+
     <footer>
-        <p>&copy; 2025 FAQ Caminismo A.C. Mexico. Ancient Caminista wisdom for modern seekers.</p>
+        <p>&copy; {{ now.Year }} Caminismo.org — Sabiduría antigua para buscadores modernos.</p>
+        <p><a href="/glosario/" class="glossary-highlight">Glosario</a></p>
     </footer>
 </body>
 </html>

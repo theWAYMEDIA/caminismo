@@ -4,7 +4,7 @@ description: "Marcos si-entonces explicando por qué la Fuente es el primer prin
 weight: 3
 ---
 
-**Navegación:** [Filosofía](/filosofia/) > [La Fuente](/filosofia/fuente/) > Cadenas Lógicas
+**Navegación:** [Filosofía](/filosofia/) > [La Fuente](/filosofia/la-fuente/) > Cadenas Lógicas
 
 *Razonamiento si-entonces claro mostrando por qué la Fuente sirve como puente entre el Absoluto incomprensible y la realidad comprensible*
 

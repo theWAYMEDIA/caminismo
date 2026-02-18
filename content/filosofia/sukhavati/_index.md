@@ -4,7 +4,7 @@ description: "El reino del Dominio Espiritual donde las almas graduadas sirven c
 weight: 70
 ---
 
-[← Atrás a Filosofía](/filosofia/) | [← Camino de la Mariposa](/filosofia/camino-de-la-mariposa/) | [Siguiente: Ejemplos →](/filosofia/sukhavati/ejemplos/)
+[← Atrás a Filosofía](/filosofia/) | [← Camino de la Mariposa](/filosofia/camino-mariposa/) | [Siguiente: Ejemplos →](/filosofia/sukhavati/ejemplos/)
 
 Sukhavati representa el destino final del Camino de la Mariposa - no como un lugar de descanso eterno, sino como el reino del servicio cósmico activo donde las almas graduadas trabajan como seres espirituales inmortales a través de la galaxia. Esta comprensión transforma fundamentalmente cómo pensamos sobre el "cielo", Dios y nuestro destino espiritual final.
 

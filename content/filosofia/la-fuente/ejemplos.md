@@ -4,7 +4,7 @@ description: "Cómo comprender la Fuente transforma la creatividad, abundancia y
 weight: 2
 ---
 
-**Navegación:** [Filosofía](/filosofia/) > [La Fuente](/filosofia/fuente/) > Ejemplos
+**Navegación:** [Filosofía](/filosofia/) > [La Fuente](/filosofia/la-fuente/) > Ejemplos
 
 *Maneras prácticas en que la consciencia de la Fuente transforma cómo creamos, nos relacionamos y vivimos*
 

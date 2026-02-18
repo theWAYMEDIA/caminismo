@@ -4,7 +4,7 @@ description: "Cómo la enseñanza del Absoluto transforma la experiencia diaria"
 weight: 2
 ---
 
-[← Atrás a Índice](./) | [Siguiente: Cadenas Lógicas →](cadenas-logicas)
+[← Atrás a Índice](/filosofia/absoluto/) | [Siguiente: Cadenas Lógicas →](/filosofia/absoluto/cadenas-logicas/)
 
 *Maneras prácticas en que la enseñanza del Absoluto transforma cómo navegamos la vida*
 
@@ -114,4 +114,4 @@ La enseñanza del Absoluto no se trata de renunciar a la comprensión - se trata
 
 ---
 
-[← Atrás a Índice](././) | [Siguiente: Cadenas Lógicas →](././cadenas-logicas/)
+[← Atrás a Índice](/filosofia/absoluto/) | [Siguiente: Cadenas Lógicas →](/filosofia/absoluto/cadenas-logicas/)

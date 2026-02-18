@@ -4,7 +4,7 @@ description: "Distinguiendo la tecnología de expansión de elección Caminante 
 weight: 98
 ---
 
-[← Cadenas Lógicas](/filosofia/libre-albedrio/cadenas-logicas/) | [Siguiente: Propósito de Vida →](/filosofia/proposito-de-vida/)
+[← Cadenas Lógicas](/filosofia/libre-albedrio/cadenas-logicas/) | [Siguiente: Propósito de Vida →](/filosofia/proposito-vida/)
 
 ## vs. Determinismo Duro (No Existe Libre Albedrío)
 
@@ -243,6 +243,6 @@ El Libre Albedrío Educativo representa la tecnología más sofisticada imaginab
 
 ---
 
-[← Cadenas Lógicas](/filosofia/libre-albedrio/cadenas-logicas/) | [Siguiente: Propósito de Vida →](/filosofia/proposito-de-vida/)
+[← Cadenas Lógicas](/filosofia/libre-albedrio/cadenas-logicas/) | [Siguiente: Propósito de Vida →](/filosofia/proposito-vida/)
 
 ---

@@ -4,7 +4,7 @@ description: "Cómo la comprensión Caminista de la Fuente difiere de los concep
 weight: 4
 ---
 
-**Navegación:** [Filosofía](/filosofia/) > [La Fuente](/filosofia/fuente/) > Vs Otras Visiones
+**Navegación:** [Filosofía](/filosofia/) > [La Fuente](/filosofia/la-fuente/) > Vs Otras Visiones
 
 *Comprendiendo cómo diferentes tradiciones conceptualizan el principio creativo último*
 

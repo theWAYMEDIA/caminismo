@@ -33,10 +33,10 @@ La filosofía sirve a la vida, no a la abstracción académica. Estos conceptos 
 **[El Absoluto](/filosofia/absoluto/)**  
 La fuente inefable más allá de toda descripción. Lo que no puede ser conocido pero debe ser reconocido como el origen de todo.
 
-**[La Fuente](/filosofia/fuente/)**  
+**[La Fuente](/filosofia/la-fuente/)**
 La primera emanación del Absoluto - el origen de toda Energía Universal que fluye a través de la existencia.
 
-**[elCAMINO](/filosofia/elcamino/)**  
+**[elCAMINO](/filosofia/el-camino/)**
 El sistema energético divino que establece las leyes y orden del universo. La estructura inteligente dentro de la cual existe todo.
 
 **[Los Dos](/filosofia/los-dos/)**  
@@ -52,7 +52,7 @@ Por qué estamos aquí: la evolución del alma hacia espíritu inmortal. No es m
 **[El Camino de la Mariposa](/filosofia/camino-mariposa/)**  
 La metáfora central del Caminismo. Como la oruga se transforma en mariposa, las almas evolucionan en espíritus inmortales.
 
-**[Etapas del Alma](/filosofia/etapas-alma/)**  
+**[Etapas del Alma](/filosofia/etapas-del-alma/)**  
 Las diferentes fases de desarrollo del alma a través de múltiples vidas. Comprender dónde estás en el camino.
 
 **[Naturaleza Humana](/filosofia/naturaleza-humana/)**  
@@ -62,13 +62,13 @@ Qué significa ser un ser híbrido - alma temporal + espíritu emergente operand
 
 ### **Leyes Espirituales**
 
-**[Ley del Karma](/filosofia/ley-karma/)**  
+**[Ley del Karma](/filosofia/karma/)**  
 No castigo sino educación. Cómo se organizan tus oportunidades de aprendizaje perfectamente según tus necesidades.
 
 **[Ley del Dharma](/filosofia/ley-dharma/)**  
 Tu código moral personal evolutivo. Con cada capa de sabiduría ganada, heredas el deber de actuar en consecuencia.
 
-**[Ley de Maya](/filosofia/ley-maya/)**  
+**[Ley de Maya](/filosofia/maya/)**  
 El "filtro de realidad" educativo que permite aprendizaje fresco. Por qué olvidamos vidas pasadas.
 
 **[Libre Albedrío](/filosofia/libre-albedrio/)**  
@@ -78,10 +78,10 @@ Opera dentro de la estructura kármica. Cómo elegir tus respuestas determina tu
 
 ### **Destino y Cielos**
 
-**[Cielo - Sukhavati](/filosofia/cielo/)**  
+**[Cielo - Sukhavati](/filosofia/sukhavati/)**  
 La "Tierra Pura de Bienaventuranza" - el reino celestial para consciencia humana graduada dentro del Dominio Espíritu.
 
-**[Reencarnación y Paraíso](/filosofia/reencarnacion-paraiso/)**  
+**[Reencarnación y Paraíso](/filosofia/reencarnacion/)**  
 Cómo funciona la reencarnación, por qué es necesaria, y qué sucede entre vidas.
 
 **[Empleo Cósmico](/filosofia/empleo-cosmico/)**  
@@ -91,7 +91,7 @@ Qué hacen los espíritus graduados. Tu futuro como ser inmortal al servicio de 
 
 ### **Desafíos Filosóficos**
 
-**[Mal y Sufrimiento](/filosofia/mal-sufrimiento/)**  
+**[Mal y Sufrimiento](/filosofia/el-problema-del-mal/)**  
 Por qué existe el sufrimiento en un universo benevolente. Cómo el dolor sirve al aprendizaje del alma.
 
 **[Padres Divinos](/filosofia/padres-divinos/)**  
@@ -105,13 +105,13 @@ La naturaleza de Padre Divino y Madre Divina. Por qué administran nuestro siste
 
 1. **Comienza con los fundamentos**
    - [El Absoluto](/filosofia/absoluto/) para comprender la base
-   - [La Fuente](/filosofia/fuente/) y [elCAMINO](/filosofia/elcamino/)
+   - [La Fuente](/filosofia/la-fuente/) y [elCAMINO](/filosofia/el-camino/)
    - [Propósito de la Vida](/filosofia/proposito-vida/) para ver por qué esto importa
 
 2. **Avanza hacia comprensión práctica**
-   - [Karma](/filosofia/ley-karma/) - cómo funciona tu educación
+   - [Karma](/filosofia/karma/) - cómo funciona tu educación
    - [Camino de la Mariposa](/filosofia/camino-mariposa/) - tu viaje completo
-   - [Etapas del Alma](/filosofia/etapas-alma/) - dónde estás ahora
+   - [Etapas del Alma](/filosofia/etapas-del-alma/) - dónde estás ahora
 
 3. **Conecta con la práctica diaria**
    - Aplica estos conceptos a tu vida actual
@@ -221,19 +221,19 @@ La filosofía Caminista es como un tejido donde cada hilo se conecta con todos l
 ## Preguntas Filosóficas Frecuentes
 
 ### **¿Por qué existe el sufrimiento?**
-→ Lee [Mal y Sufrimiento](/filosofia/mal-sufrimiento/)
+→ Lee [Mal y Sufrimiento](/filosofia/el-problema-del-mal/)
 
 ### **¿Qué pasa después de la muerte?**
-→ Lee [Reencarnación y Paraíso](/filosofia/reencarnacion-paraiso/)
+→ Lee [Reencarnación y Paraíso](/filosofia/reencarnacion/)
 
 ### **¿Por qué no recuerdo vidas pasadas?**
-→ Lee [Ley de Maya](/filosofia/ley-maya/)
+→ Lee [Ley de Maya](/filosofia/maya/)
 
 ### **¿Cuál es mi propósito específico?**
 → Lee [Propósito de la Vida](/filosofia/proposito-vida/) y [Ley del Dharma](/filosofia/ley-dharma/)
 
 ### **¿Cómo sé en qué etapa estoy?**
-→ Lee [Etapas del Alma](/filosofia/etapas-alma/)
+→ Lee [Etapas del Alma](/filosofia/etapas-del-alma/)
 
 ### **¿Tengo libre albedrío o está todo predeterminado?**
 → Lee [Libre Albedrío](/filosofia/libre-albedrio/)

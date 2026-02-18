@@ -4,7 +4,7 @@ description: "Aplicaciones del mundo real de vivir alineado con el orden cósmic
 weight: 41
 ---
 
-[← Filosofía](/filosofia/) | [← elCAMINO](/filosofia/elcamino/)
+[← Filosofía](/filosofia/) | [← elCAMINO](/filosofia/el-camino/)
 
 ## Carrera y Alineación con el Propósito
 
@@ -125,4 +125,4 @@ Estas preguntas nos cambian de la resistencia al flujo, de víctima a estudiante
 
 ## Navegación
 
-[← Anterior: Concepto Principal](/filosofia/elcamino/) | [Siguiente: Razonamiento Lógico →](/filosofia/elcamino/cadenas-logicas/)
+[← Anterior: Concepto Principal](/filosofia/el-camino/) | [Siguiente: Razonamiento Lógico →](/filosofia/el-camino/cadenas-logicas/)

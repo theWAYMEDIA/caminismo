@@ -121,4 +121,4 @@ Sin embargo, el que tiene sed debe beber.
 Y el sediento que bebe profundamente de la fuente nunca más tendrá sed."*  
 ~ Enseñanza Caminista Antigua
 
-**Siguiente:** [elCAMINO →](/filosofia/elcamino/)
+**Siguiente:** [elCAMINO →](/filosofia/el-camino/)

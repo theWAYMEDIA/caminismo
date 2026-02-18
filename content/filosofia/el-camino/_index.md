@@ -81,7 +81,7 @@ Esta comprensión transforma cómo abordamos todo, desde decisiones diarias hast
 
 ## Navegación en este Concepto
 
-**Siguiente:** [Ejemplos de elCAMINO en la Práctica →](/filosofia/elcamino/ejemplos/)
+**Siguiente:** [Ejemplos de elCAMINO en la Práctica →](/filosofia/el-camino/ejemplos/)
 
 ---
 

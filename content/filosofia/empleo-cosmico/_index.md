@@ -190,7 +190,7 @@ Entender tu existencia como preparación de carrera cósmica hace cada experienc
 
 ---
 
-**Siguiente en Secuencia:** [Propósito de Vida](/filosofia/proposito-de-vida/) - Cómo encontrar significado existencial y oportunidades de creación de sabiduría dentro del marco de preparación de empleo cósmico
+**Siguiente en Secuencia:** [Propósito de Vida](/filosofia/proposito-vida/) - Cómo encontrar significado existencial y oportunidades de creación de sabiduría dentro del marco de preparación de empleo cósmico
 
 **Explorar Más:** 
 - [Ejemplos de Empleo Cósmico →](/filosofia/empleo-cosmico/ejemplos/)

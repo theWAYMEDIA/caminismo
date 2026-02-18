@@ -4,7 +4,7 @@ description: "Ilustraciones del mundo real de cómo las almas navegan el ciclo e
 weight: 801
 ---
 
-[← Volver a Filosofía](/filosofia/) | [← Reencarnacion](/filosofia/reencarnacion/) [-> Cadenas logicas](/filosofia/reencarnacion/cadenas-logicas.md)
+[← Reencarnación y Paraíso](/filosofia/reencarnacion/) | [Siguiente: Cadenas Lógicas →](/filosofia/reencarnacion/cadenas-logicas/)
 
 ## Comprender la Muerte como Completación Curricular
 
@@ -209,6 +209,6 @@ Estos ejemplos demuestran que la reencarnación y el Paraíso funcionan como un 
 
 ---
 
-[← Volver a Filosofía](/filosofia/) | [← Reencarnacion](/filosofia/reencarnacion/) [-> Cadenas logicas](/filosofia/reencarnacion/cadenas-logicas.md)
+[← Reencarnación y Paraíso](/filosofia/reencarnacion/) | [Siguiente: Cadenas Lógicas →](/filosofia/reencarnacion/cadenas-logicas/)
 
 ---

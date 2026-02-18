@@ -3,7 +3,7 @@ title: "Cadenas Lógicas: El Razonamiento Detrás del Absoluto"
 description: "Marcos si-entonces para entender por qué reconocemos lo incognoscible"
 weight: 3
 ---
-[← Atrás a Índice](./) | [← Anterior: Ejemplos](ejemplos.md) | [Siguiente: Comparación →](vs-otras-visiones.md)
+[← Atrás a Índice](/filosofia/absoluto/) | [← Anterior: Ejemplos](/filosofia/absoluto/ejemplos/) | [Siguiente: Comparación →](/filosofia/absoluto/vs-otras-visiones/)
 
 
 *Razonamiento si-entonces claro mostrando por qué el Caminismo comienza con lo inefable*

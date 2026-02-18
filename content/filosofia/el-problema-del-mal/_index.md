@@ -4,7 +4,7 @@ description: "Por qué existe el mal, por qué los seres espirituales no intervi
 weight: 400
 ---
 
-[← Atrás a Filosofía](/filosofia/) | [← Naturaleza Humana](/filosofia/naturaleza-hibrida-humana/)
+[← Atrás a Filosofía](/filosofia/) | [← Naturaleza Humana](/filosofia/naturaleza-humana/)
 
 La existencia del mal y el sufrimiento presenta la prueba definitiva de cualquier filosofía espiritual. **Si los Padres Divinos son amorosos y poderosos, ¿por qué permiten el genocidio, el abuso, la guerra y la opresión sistémica? La respuesta Caminista revela un cosmos diseñado para el desarrollo de la consciencia en lugar de la comodidad—donde incluso las experiencias aparentemente malignas sirven a los propósitos educativos del sistema escolar del Camino de la Mariposa.**
 

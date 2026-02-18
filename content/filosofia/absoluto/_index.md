@@ -91,5 +91,5 @@ Es la Fuente, de algo que vemos."*
 - [Cadenas Lógicas →](cadenas-logicas/)
 - [Comparación con Otras Visiones →](vs-otras-visiones/)
 
-**Siguiente:** [La Fuente →](/filosofia/fuente/)
+**Siguiente:** [La Fuente →](/filosofia/la-fuente/)
 

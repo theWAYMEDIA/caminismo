@@ -208,7 +208,7 @@ R: Damos bienvenida a buscadores sinceros en todos los niveles de comprensión. 
 **P: ¿Puedo integrar sanación energética Caminista con otras prácticas espirituales?**
 R: Sí, aunque entiende que diferentes sistemas tienen diferentes enfoques. La sanación energética Caminista enfatiza asociación divina, marco filosófico completo y preparación para servicio eterno. Estos elementos funcionan mejor dentro del contexto Caminista completo.
 
-**P: ¿Qué pasa si mi familia o amigos piensan que la sanación energética es tonterÃ­a?**
+**P: ¿Qué pasa si mi familia o amigos piensan que la sanación energética es tontería?**
 R: Comienza con resultados demostrables en lugar de explicaciones. Ayuda con problemas menores como dolores de cabeza o estrés. Deja que tu mayor paz y efectividad hablen por el valor de tu práctica. No todos entenderán, y está bien.
 
 **P: ¿Cómo encuentro maestros y mentores calificados?**

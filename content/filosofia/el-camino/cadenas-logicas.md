@@ -4,7 +4,7 @@ description: "Cadenas lógicas si-entonces que demuestran la necesidad y funció
 weight: 42
 ---
 
-[← Filosofía](/filosofia/) | [← elCAMINO](/filosofia/elcamino/)
+[← Filosofía](/filosofia/) | [← elCAMINO](/filosofia/el-camino/)
 
 ## Cadena 1: Del Caos al Orden
 
@@ -187,4 +187,4 @@ ElCAMINO representa la explicación más lógica de cómo el universo realmente 
 
 ## Navegación
 
-[← Anterior: Ejemplos en la Práctica](/filosofia/elcamino/ejemplos/) | [Siguiente: Comparación con Otras Visiones →](/filosofia/elcamino/vs-otras-visiones/)
+[← Anterior: Ejemplos en la Práctica](/filosofia/el-camino/ejemplos/) | [Siguiente: Comparación con Otras Visiones →](/filosofia/el-camino/vs-otras-visiones/)
