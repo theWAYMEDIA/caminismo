@@ -1,4 +1,4 @@
 <div class="logical-chain">
-  <h4>Estructura Lógica:</h4>
+  <h4>{{ with .Get "title" }}{{ . }}{{ else }}Estructura Lógica{{ end }}</h4>
   {{ .Inner | markdownify }}
 </div>
