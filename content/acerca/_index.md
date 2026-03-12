@@ -96,6 +96,52 @@ Bajo su liderazgo, Caminismo A.C. se mantiene fiel a los principios de:
 - Servicio sin agenda política o religiosa
 - Protección de la comunidad contra explotación
 
+### Estructura Legal y Patrimonio
+
+**Datos de registro**
+
+El nombre legal completo de la organización es **El Camino de Caminismo Universal, Asociación Civil**, constituida ante el Notario Público Número 3 de Puerto Vallarta, Jalisco, mediante Escritura Pública No. 55,700 el **12 de noviembre de 2025**. La asociación opera bajo el nombre abreviado **Caminismo A.C.** y como **Editorial elCAMINO** para actividades de publicación.
+
+- **RFC:** CCU2511122U2
+- **Domicilio legal:** Puerto Vallarta, Jalisco, México
+- **Registro SAT:** 20 de noviembre de 2025
+- **Estatus:** Asociación civil sin fines de lucro, autorizada para recibir donaciones nacionales e internacionales
+
+---
+
+**La tradición y su custodia**
+
+Las enseñanzas que hoy se conocen como Wayism — y en el mundo hispanohablante como Caminismo — representan una corriente espiritual continua que se extiende a lo largo de cinco milenios. Su articulación moderna en idiomas occidentales fue iniciada por la maestra espiritual conocida como **Yusa**, cuyo trabajo durante las últimas décadas del siglo XX estableció el marco filosófico y didáctico que hoy sostiene las comunidades Caministas en todo el mundo.
+
+La custodia de ese legado recae actualmente en **Jean du Plessis**, Secretario de Caminismo A.C., quien funge como guía, impulsor y punto de continuidad de la red de académicos, escritores y creadores que producen materiales auténticos de la tradición. Jean no actúa como autoridad espiritual única — el Caminismo no tiene esa figura — sino como el hilo humano que conecta décadas de trabajo colectivo con los proyectos actuales y futuros.
+
+A lo largo de los años, académicos y creadores independientes de varios países han donado sus derechos de autor a esta custodia colectiva. En 2025, el conjunto completo de esos activos fue transferido formalmente a Caminismo A.C. como depositaria legal de la tradición en México.
+
+---
+
+**Patrimonio intelectual bajo custodia**
+
+Caminismo A.C. es la titular legal del siguiente patrimonio intelectual, recibido por donación de sus creadores:
+
+*Publicaciones escritas*
+Más de **50 obras publicadas** en inglés, español y otros idiomas, distribuidas globalmente a través de Amazon KDP, Google Play Books y plataformas de audiolibro. Los derechos de publicación se licencian a editoriales bajo acuerdo formal; los formatos digitales fundamentales se ofrecen de forma gratuita. El catálogo completo está disponible en la sección [Libros](/libros/).
+
+*Música de la Tradición*
+Más de **70 composiciones musicales** publicadas en Spotify y plataformas relacionadas, bajo nombres artísticos que incluyen **Colectivo Mariposa**, **Maya Sabda** y otros. Algunas obras son composiciones de autores individuales donadas a la asociación; otras pertenecen a la Tradición misma y no tienen autor individual identificable. En 2026 se prevé la publicación de aproximadamente 30 obras adicionales.
+
+*Presencia digital*
+La asociación es custodio legal de varios sitios web y nombres de dominio utilizados por comunidades Caministas en distintos países, incluyendo este sitio (caminismo.org), wayism.org, y la plataforma comunitaria wayist.life.
+
+---
+
+**Relación con Wayism Internacional**
+
+Caminismo A.C. es la continuación legal de un proyecto iniciado en Canadá bajo el paraguas de una corporación sin fines de lucro que operó durante casi dos décadas produciendo y distribuyendo materiales Caministas. Ante presiones institucionales que comprometieron la capacidad de operar con libertad en ese país, los activos, derechos y responsabilidades de esa entidad fueron transferidos íntegramente a Caminismo A.C. en 2025.
+
+El sitio wayism.org continúa activo como el hogar global de la tradición en inglés y otros idiomas. Caminismo.org es su contraparte para el mundo hispanohablante. Ambos sitios son operados por Caminismo A.C. y reflejan las mismas enseñanzas auténticas.
+
+---
+
 ### Modelo Financiero
 
 Caminismo A.C. es **impulsada por voluntarios** y se sostiene a través de:
@@ -145,7 +191,7 @@ Los **Caminantes** (Personas del CAMINO) forman una comunidad global diversa uni
 ❌ Un culto o secta con líderes autoritarios  
 ❌ Una práctica exclusiva que rechaza otras tradiciones  
 ❌ Un sistema de creencias que requiere fe ciega  
-❌ Una organización que busca conversiones o membresías
+❌ Una organización que requiere membresía para ser Caminante
 
 ### Caminismo SÍ es:
 
@@ -220,9 +266,15 @@ Para información sobre cómo apoyar: admin@wayist.life
 
 ## Preguntas Frecuentes sobre la Organización
 
-### ¿Caminismo cobra membresía?
+### ¿Se necesita ser miembro de algo para ser Caminante?
 
-No. Todas las enseñanzas fundamentales son gratuitas. La comunidad en línea (Wayist.Life) ofrece membresías opcionales con beneficios adicionales, pero el acceso básico es gratuito.
+No. El Caminismo no tiene membresía. Ser Caminante es simplemente caminar elCAMINO — no requiere inscripción, cuota ni afiliación a ninguna organización.
+
+**Caminismo A.C.** es una asociación civil mexicana formada por un colectivo de voluntarios que trabajan activamente para preservar la tradición, producir materiales y custodiar los activos de enseñanza. Es, en esencia, el equipo que hace el trabajo de fondo para que las enseñanzas estén disponibles para todos. Pertenecer a ese equipo de trabajo es una elección personal, no un requisito espiritual.
+
+**Wayist.Life** es una plataforma comunitaria en línea operada por Caminismo A.C., donde Caminantes de todo el mundo se conectan, comparten experiencias, acceden a cursos y recursos, y participan en la vida comunitaria cotidiana — desde discusiones filosóficas hasta recetas, dharanis e imágenes de gatitos. El acceso básico es gratuito; hay niveles opcionales con recursos adicionales. Unirse es una opción, no una obligación.
+
+En resumen: **no necesitas unirte a nada para ser Caminante**. Si en algún momento quieres ser parte del equipo que trabaja para la tradición, o conectarte con otros Caminantes en línea, esas puertas están abiertas.
 
 ### ¿Hay templos o lugares físicos?
 
