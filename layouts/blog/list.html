@@ -21,8 +21,7 @@
 
     <main class="blog-main">
         <div class="container">
-            
-            <!-- Blog Header Section -->
+
             <header class="blog-header">
                 <h1>{{ .Title }}</h1>
                 {{ with .Params.description }}
@@ -30,23 +29,26 @@
                 {{ end }}
             </header>
 
-            <!-- Blog Introduction (from _index.md content) -->
+            <nav class="blog-nav">
+                <a href="/blog/" class="blog-nav-link">Todos</a>
+                <a href="/authors/" class="blog-nav-link">Autores</a>
+            </nav>
+
             {{ if .Content }}
             <section class="blog-intro">
                 {{ .Content }}
             </section>
             {{ end }}
 
-            <!-- Blog Posts Listing -->
             <section class="blog-posts">
                 <h2>Artículos Recientes</h2>
-                
+
                 {{ $pages := where .Pages "Type" "blog" }}
                 {{ $pages := where $pages "Params.draft" "!=" true }}
                 {{ range $pages.ByDate.Reverse }}
                     <article class="post-preview">
                         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        
+
                         <div class="post-meta">
                             <time datetime="{{ .Date.Format "2006-01-02" }}">
                                 {{ .Date.Day }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Year }}
@@ -55,7 +57,7 @@
                                 <span class="category">{{ . }}</span>
                             {{ end }}
                             {{ with .Params.author }}
-                                <span class="author">por {{ . }}</span>
+                                <a href="/authors/{{ . | urlize }}/" class="author">por {{ . }}</a>
                             {{ end }}
                         </div>
 
@@ -68,7 +70,7 @@
                         {{ with .Params.tags }}
                         <div class="tags">
                             {{ range . }}
-                                <span class="tag">#{{ . }}</span>
+                                <a href="/tags/{{ . | urlize }}/" class="tag">#{{ . }}</a>
                             {{ end }}
                         </div>
                         {{ end }}
@@ -78,28 +80,12 @@
                 {{ end }}
             </section>
 
-            <!-- Categories Section -->
-            {{ with .Site.Taxonomies.categories }}
-            <aside class="blog-categories">
-                <h2>Explorar por Categoría</h2>
-                <ul>
-                    {{ range $name, $taxonomy := . }}
-                        <li>
-                            <a href="/categories/{{ $name | urlize }}">
-                                {{ $name | title }} ({{ len $taxonomy }})
-                            </a>
-                        </li>
-                    {{ end }}
-                </ul>
-            </aside>
-            {{ end }}
-
         </div>
     </main>
 
     <footer class="site-footer">
         <div class="container">
-            <p>🦋 {{ .Site.Params.author }} | <a href="/faq/">FAQ</a> | <a href="/glosario/">Glosario</a> | <a href="https://wayist.life">Comunidad</a></p>
+            <p>{{ .Site.Params.author }} | <a href="/faq/">FAQ</a> | <a href="/glosario/">Glosario</a> | <a href="https://wayist.life">Comunidad</a></p>
         </div>
     </footer>
 </body>

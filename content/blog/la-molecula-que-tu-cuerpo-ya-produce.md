@@ -4,6 +4,7 @@ description: "El óxido nítrico que tus senos paranasales producen durante el t
 date: 2026-05-10
 draft: false
 weight: 35
+author: "Jean Prieur du Plessis"
 
 categories: ["sanacion", "trabajo-energetico", "ciencia"]
 tags: ["tarareo", "OM", "óxido nítrico", "presión arterial", "disfunción eréctil", "nervio vago", "parasimpático", "neumaterapia"]

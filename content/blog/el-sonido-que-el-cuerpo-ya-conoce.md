@@ -4,6 +4,7 @@ description: "Las personas han gemido durante el sexo desde antes de que existie
 date: 2026-05-10
 draft: false
 weight: 36
+author: "Jean Prieur du Plessis"
 
 categories: ["sanacion", "trabajo-energetico", "ciencia", "sensualidad-sagrada"]
 tags: ["tarareo", "OM", "nervio vago", "sensualidad sagrada", "sexualidad", "vocalización", "oxitocina", "parasimpático", "intimidad"]

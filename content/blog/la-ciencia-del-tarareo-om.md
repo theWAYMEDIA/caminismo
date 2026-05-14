@@ -4,6 +4,7 @@ description: "Cuando tarareas OM con la boca cerrada, cinco mecanismos fisiológ
 date: 2026-05-10
 draft: false
 weight: 34
+author: "Jean Prieur du Plessis"
 
 categories: ["sanacion", "trabajo-energetico", "ciencia"]
 tags: ["tarareo", "OM", "nervio vago", "óxido nítrico", "líquido cefalorraquídeo", "kundalini", "sistema glinfático", "neumaterapia"]

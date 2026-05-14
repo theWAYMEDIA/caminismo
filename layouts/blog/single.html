@@ -54,7 +54,7 @@
                             {{ .Date.Day }} de {{ index (slice "enero" "febrero" "marzo" "abril" "mayo" "junio" "julio" "agosto" "septiembre" "octubre" "noviembre" "diciembre") (sub .Date.Month 1) }} de {{ .Date.Year }}
                         </time>
                         {{ with .Params.author }}
-                            <span class="author">por {{ . }}</span>
+                            <a href="/authors/{{ . | urlize }}/" class="author">por {{ . }}</a>
                         {{ end }}
                         {{ with .Params.category }}
                             {{ if reflect.IsSlice . }}

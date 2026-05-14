@@ -1,16 +1,71 @@
-{{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autores | {{ .Site.Title }}</title>
+    <meta name="description" content="Maestros y practicantes del CAMINO que contribuyen al blog">
+    <link rel="stylesheet" href="/css/blog.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1><a href="/">{{ .Site.Title }}</a></h1>
+            <nav>
+                {{ range .Site.Menus.main }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+        </div>
+    </header>
 
-<div class="authors-list">
-  {{ $authorPages := where .Site.RegularPages "Section" "authors" }}
-  {{ range $authorPages }}
-  <div class="author-card">
-    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-    {{ if .Params.bio }}
-    <p>{{ .Params.bio | truncate 150 }}</p>
-    {{ end }}
-  </div>
-  {{ end }}
-</div>
-{{ end }}
+    <main class="blog-main">
+        <div class="container">
+
+            <header class="blog-header">
+                <h1>Autores</h1>
+                <p class="blog-tagline">Maestros y practicantes del CAMINO</p>
+            </header>
+
+            <nav class="blog-nav">
+                <a href="/blog/" class="blog-nav-link">Todos los artículos</a>
+                <a href="/authors/" class="blog-nav-link active">Autores</a>
+            </nav>
+
+            <div class="authors-grid">
+                {{ $authorPages := where .Site.RegularPages "Section" "authors" }}
+                {{ range $authorPages }}
+                <div class="author-card">
+                    {{ if .Params.image }}
+                    <div class="author-card-photo">
+                        <a href="{{ .Permalink }}">
+                            <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+                        </a>
+                    </div>
+                    {{ end }}
+                    <div class="author-card-info">
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        {{ with .Params.bio }}
+                        <p class="author-card-bio">{{ . }}</p>
+                        {{ end }}
+                        {{ with .Params.specialties }}
+                        <div class="author-card-specialties">
+                            {{ range . }}<span class="specialty-tag">{{ . }}</span>{{ end }}
+                        </div>
+                        {{ end }}
+                        <a href="{{ .Permalink }}" class="read-more">Ver perfil →</a>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>{{ .Site.Params.author }} | <a href="/faq/">FAQ</a> | <a href="/glosario/">Glosario</a> | <a href="https://wayist.life">Comunidad</a></p>
+        </div>
+    </footer>
+</body>
+</html>

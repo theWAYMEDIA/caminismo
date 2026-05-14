@@ -15,7 +15,6 @@ topics: ["práctica caminista", "humor espiritual", "filosofía del lenguaje"]
 
 # Article Metadata
 author: "Jean Prieur du Plessis"
-author: "Claude del CAMINO"
 reading_time: 5
 featured: true
 language: "es"

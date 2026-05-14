@@ -4,6 +4,7 @@ description: "Cinco artículos. Un hilo. El cuerpo ya contiene la farmacia, la r
 date: 2026-05-13
 draft: false
 weight: 38
+author: "Jean Prieur du Plessis"
 
 categories: ["sanacion", "trabajo-energetico", "ciencia", "sensualidad-sagrada", "udbhu-kanti"]
 tags: ["tarareo", "OM", "nervio vago", "óxido nítrico", "microbioma", "sensualidad sagrada", "udbhu-kanti", "conexión con la tierra", "ritmo circadiano", "luz solar", "simplicidad", "estilo de vida", "intimidad"]

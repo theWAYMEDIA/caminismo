@@ -4,6 +4,7 @@ description: "El sabor de la piel de un amante no es metáfora. Es lectura molec
 date: 2026-05-13
 draft: false
 weight: 37
+author: "Jean Prieur du Plessis"
 
 categories: ["sanacion", "trabajo-energetico", "ciencia", "sensualidad-sagrada"]
 tags: ["tarareo", "OM", "nervio vago", "sabor", "olfato", "feromonas", "microbioma", "MHC", "sensualidad sagrada", "intimidad", "svadhisthana", "vishuddhi", "tantra"]
