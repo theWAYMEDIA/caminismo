@@ -1,6 +1,6 @@
 ---
 title: "Una Visita Real"
-author: "Adele du Plessis"
+author: "Adéle du Plessis"
 date: 2025-01-21
 category: [Encuentros con la Naturaleza"]
 tags: ["Encuentros Divinos", "Presencia", "Interconexión", "Sabiduría Natural", "Sagrado Ordinario"]

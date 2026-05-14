@@ -1,6 +1,6 @@
 ---
 title: "La Dignidad de los Pétalos Moribundos"
-author: "Adele du Plessis"
+author: "Adéle du Plessis"
 date: 2025-01-21
 category: ["Contemplación"]
 tags: ["Impermanencia", "Belleza", "Aceptación", "Práctica Sagrada", "Consciencia Plena"]
