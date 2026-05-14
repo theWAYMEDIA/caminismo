@@ -134,7 +134,11 @@ Nos abrazamos como personas que han compartido algo que no tiene nombre en ning�
 
 Me envió un enlace al mantra, cantado por Colectivo Mariposa.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Aho7kE4GA7S39BpQ7Ipd5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<audio controls style="width:100%;margin:1rem 0;">
+  <source src="/music/Om%20M%C4%81rge%20Divya%20%C5%9Aodhana-Mantra-fin.mp3" type="audio/mpeg">
+</audio>
+
+<p style="margin-top:0.25rem;font-size:0.9em;"><a href="https://too.fm/pobqon1" target="_blank" rel="noopener noreferrer">Escuchar en todas las plataformas</a> — Colectivo Mariposa</p>
 
 Entré de nuevo a la sala. Me senté. Puse los audífonos.
 
