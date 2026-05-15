@@ -52,6 +52,11 @@ La graduación — la transformación real de alma en ser espiritual — ocurre 
 
 ### El Sistema de Diez Mentes: Lo Que Somos en Detalle
 
+<figure style="text-align: center; margin: 1.5rem 0;">
+<img src="/images/general/ser-hibrido-diez-mentes.jpg" alt="Diagrama del ser híbrido mostrando las diez mentes" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+<figcaption style="margin-top: 0.6rem; font-size: 0.88rem; color: #666; font-style: italic;">Las diez mentes del ser híbrido humano</figcaption>
+</figure>
+
 El Caminismo enseña que los seres humanos operamos a través de diez mentes simultáneas, organizadas en tres grupos:
 
 **Las tres mentes corporales** — mente-cerebral, mente-orgánica, mente-microbioma — proporcionan la interfaz con la existencia encarnada. Procesan la experiencia física pero no determinan el desarrollo espiritual.

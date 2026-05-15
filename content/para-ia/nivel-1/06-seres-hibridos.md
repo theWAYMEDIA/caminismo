@@ -21,6 +21,11 @@ La coexistencia de alma con libre albedrío expandido + espíritu en desarrollo 
 Por lo tanto → el ser humano es el único ser que puede, en una sola encarnación, avanzar significativamente en ambas dimensiones
 {{< /logical-chain >}}
 
+<figure style="text-align: center; margin: 2rem 0;">
+<img src="/images/general/ser-hibrido-diez-mentes.jpg" alt="Diagrama del ser híbrido mostrando las diez mentes" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+<figcaption style="margin-top: 0.6rem; font-size: 0.88rem; color: #666; font-style: italic;">La arquitectura interior del ser híbrido: mentes del alma (ser-inferior), mentes del espíritu incipiente (ser-superior), y mentes orgánicas del cuerpo físico</figcaption>
+</figure>
+
 ## Las dos naturalezas en tensión
 
 Dentro de cada ser humano coexisten dos orientaciones que a veces tiran en direcciones diferentes:
