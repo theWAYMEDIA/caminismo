@@ -5,7 +5,7 @@ draft: false
 description: "Una sala de espera de hospital en Puerto Vallarta. Tres horas en una silla de plástico. Y en el rincón, un hombre que no espera — trabaja."
 slug: "la-sala-de-espera"
 categories: ["Poesía y Reflexión", "Vida Espiritual"]
-tags: ["udbhu-kanti", "mantra de sanación", "pneumaterapia", "práctica wayista", "México", "Japón", "lo sagrado cotidiano"]
+tags: ["udbhu-kanti", "mantra de sanación", "pneumaterapia", "práctica caminante", "México", "Japón", "lo sagrado cotidiano", "wayista"]
 author: "Kaori Mizuki"
 reading_time: 8
 featured: false
@@ -14,11 +14,11 @@ image: "/images/general/la-sala-de-espera.jpg"
 
 Puerto Vallarta no es diferente a Kamakura en cuanto a la particular crueldad acústica de las salas de espera de los hospitales. El arquitecto que diseñó este lugar — con sus pisos de cerámica y sus techos de placa metálica — nunca tuvo que sentarse aquí a esperar que alguien le dijera si la persona que más amaba en el mundo seguía con vida. Si lo hubiera hecho, habría entendido que el sonido rara vez consuela. Amplifica.
 
-Cada silla de plástico chirría. Cada par de zapatos anuncia su tragedia. La rueda oxidada de una camilla que entra por las puertas de emergencia llega como pregunta — *¿quién? ¿cuánto?* — y el cuerpo de todos en la sala se inclina imperceptiblemente hacia el sonido antes de retirarse, avergonzado de su propio miedo.
+Cada silla de plástico chirría. Cada par de zapatos anuncia su tragedia. La rueda oxidada de una camilla que entra por las puertas de emergencia llega como pregunta — ¿quién? ¿cuánto? — y el cuerpo de todos en la sala se inclina imperceptiblemente hacia el sonido antes de retirarse, avergonzado de su propio miedo.
 
 Llevo tres horas aquí. Mi amigo espera mientras operan a su esposa. Me quedé por compañía, aunque ya se fue a buscar café y yo me quedé con su silla y la mía y el peso colectivo de este lugar.
 
-Mis muslos están entumecidos. El respaldo de plástico ha grabado su forma en mi columna. Tengo hambre, y ese pensamiento — *hambre, qué vergüenza tener hambre aquí* — me enseña algo sobre la insistencia escandalosa del cuerpo. Afuera, a través del vidrio de la ventana, puedo ver turistas pasando con sus pantalones cortos y sus camisetas sin mangas, lamiendo helados. El mundo continúa. Eso también es una forma de crueldad, aunque inocente. Los zanates en los árboles del jardín los observan sin opinión. Ellos también lo han visto todo antes.
+Mis muslos están entumecidos. El respaldo de plástico ha grabado su forma en mi columna. Tengo hambre, y ese pensamiento — hambre, qué vergüenza tener hambre aquí — me enseña algo sobre la insistencia escandalosa del cuerpo. Afuera, a través del vidrio de la ventana, puedo ver turistas pasando con sus pantalones cortos y sus camisetas sin mangas, lamiendo helados. El mundo continúa. Eso también es una forma de crueldad, aunque inocente. Los zanates en los árboles del jardín los observan sin opinión. Ellos también lo han visto todo antes.
 
 ---
 
@@ -30,9 +30,9 @@ Pero uno de ellos — el del ojo más amarillo, el de la cola más larga — inc
 
 ---
 
-El cuarto se llena y se vacía como marea. Llega una familia: madre, dos hijos adultos, una abuela que reza el rosario con dedos que conocen perfectamente ese camino. Llega un hombre joven con los ojos enrojecidos que ni siquiera se sienta, solo camina de pared a pared como si el movimiento pudiera sostenerlo. Llega una mujer de mediana edad que habla por teléfono en voz baja con alguien a quien le dice, una y otra vez: *no sé todavía, no sé todavía.*
+El cuarto se llena y se vacía como marea. Llega una familia: madre, dos hijos adultos, una abuela que reza el rosario con dedos que conocen perfectamente ese camino. Llega un hombre joven con los ojos enrojecidos que ni siquiera se sienta, solo camina de pared a pared como si el movimiento pudiera sostenerlo. Llega una mujer de mediana edad que habla por teléfono en voz baja con alguien a quien le dice, una y otra vez: no sé todavía, no sé todavía.
 
-Cuando sale un médico, el cuarto se transforma. Un cambio de presión. Los cuerpos se enderezan, los ojos se levantan, las manos sueltan lo que sostenían — teléfonos, rosarios, mangas de café — como si hubiera que estar ligero para recibir la noticia, sea cual sea. La conversación con el médico es siempre la misma en su forma: la inclinación del cuerpo hacia adelante, la intensidad del rostro, el instante decisivo. Luego la persona vuelve a su silla con algo diferente en la espalda — ya sea el alivio que relaja, o el peso que dobla.
+Cuando sale un médico, el cuarto se transforma. Un cambio de presión. Los cuerpos se enderezan, los ojos se levantan, las manos sueltan lo que sostenían — teléfonos, rosarios, vasos de café — como si hubiera que estar ligero para recibir la noticia, sea cual sea. La conversación con el médico es siempre la misma en su forma: la inclinación del cuerpo hacia adelante, la intensidad del rostro, el instante decisivo. Luego la persona vuelve a su silla con algo diferente en la espalda — ya sea el alivio que relaja, o el peso que dobla.
 
 Observo estas transacciones pequeñas y enormes.
 
@@ -40,13 +40,13 @@ Y entonces noto al hombre del rincón.
 
 ---
 
-Lleva allí desde que llegué. Sesenta y tantos años, quizás setenta. Sentado perfectamente quieto. Ojos cerrados. No el quieto de alguien que espera pacientemente — eso lo conozco; tiene su propia tensión, su propia preparación muscular para el salto. Este es otro tipo de quietud. La de alguien que no *espera* nada porque ya está completamente en otro lugar. Está trabajando.
+Lleva allí desde que llegué. Sesenta y tantos años, quizás setenta. Sentado perfectamente quieto. Ojos cerrados. No el quieto de alguien que espera pacientemente — eso lo conozco; tiene su propia tensión, su propia preparación muscular para el salto. Este es otro tipo de quietud. La de alguien que no espera nada porque ya está completamente en otro lugar. Está trabajando.
 
 Reconozco la gramática de esa postura. La he visto en maestros. La he intentado yo misma, con éxito variable.
 
 De vez en cuando abre los ojos. Pero no mira nada. La mirada no aterriza en ninguna silla, ninguna pared, ninguna camilla. Sonríe levemente para sí mismo, como quien escucha algo que solo él puede escuchar. Luego cierra los ojos de nuevo.
 
-Una vez, una enfermera casi lo despertó por error, y él levantó la mano apenas — un gesto suave, sin prisa — como diciendo: *estoy aquí, estoy bien, no me necesitas todavía.*
+Una vez, una enfermera casi lo despertó por error, y él levantó la mano apenas — un gesto suave, sin prisa — como diciendo: estoy aquí, estoy bien, no me necesitas todavía.
 
 Las horas pasaron. La gente entró y salió. Las camillas trajeron sus preguntas. El llanto de un hombre al que le dieron noticias que no quería escuchar llenó la sala y luego fue absorbido por el silencio de nuevo. Y el hombre del rincón permaneció. No aguantando. Trabajando. Enviando. Acompañando desde donde el cuerpo no puede llegar — esa habitación fría, esos instrumentos brillantes, esas manos que no pueden ser las suyas.
 
@@ -84,7 +84,7 @@ Y entonces lo supe con certeza. Lo que había leído en su postura durante horas
 
 Una luz sagrada llenó mi pecho.
 
-El Mantra de Sanación Wayista. *Om Mārge Divya Śodhana.* En sánscrito antiguo, cantado por voces que conocen el peso de lo que cargan:
+El Mantra de Sanación Caminista. *Om Mārge Divya Śodhana.* En sánscrito antiguo, cantado por voces que conocen el peso de lo que cargan:
 
 *Om jyotiḥ prāṇena vahati*
 *Rogaṃ hṛdayena śodhyate*
@@ -100,25 +100,25 @@ Arriba de nosotros, los zanates continuaban su asamblea. Dos de ellos nos observ
 
 Eso, sospecho, los zanates sí lo han visto pocas veces.
 
+---
+
 Le pregunté si habían llegado malas noticias.
 
-Él me preguntó: ¿por qué, porque lloro mucho?
+—¿Por qué, porque lloro mucho? —me preguntó.
 
 Asentí.
 
-— No. Fueron las mejores noticias. Estas son lágrimas de gratitud. La energía sagrada es demasiado grande para sostenerla.
+—No. Fueron las mejores noticias. Estas son lágrimas de gratitud. La energía sagrada es demasiado grande para sostenerla.
 
----
+—¿Escuchaste este mantra todas esas horas? —le pregunté.
 
-Le pregunté: ¿escuchaste este mantra todas esas horas?
-
-— Sí. Pero no solo para ella. Los doctores también lo necesitaban — tenían otras cirugías hoy. Toda la gente en esa sala lo necesitaba.
+—Sí. Pero no solo para ella. Los doctores también lo necesitaban — tenían otras cirugías hoy. Toda la gente en esa sala lo necesitaba.
 
 Miré hacia la ventana. La sala de espera brillaba desde adentro con su luz fluorescente, todas sus pequeñas tragedias todavía moviéndose, todavía esperando. Afuera, un turista pasó con dos helados, uno en cada mano, completamente feliz. Los zanates lo ignoraron. Ya lo habían visto.
 
-— ¿Cuál fue la buena noticia?, le pregunté.
+—¿Cuál fue la buena noticia? —le pregunté.
 
-— Los doctores Trevor González y Ruiz. Salvaron la vista de mi esposa. Llegó ciega por la inflamación. Trevor fue más allá de su deber. Su bondad de alma es lo que lo hizo accesible a la energía sagrada.
+—Los doctores Trevor González y Rigoberto Ríos León. Salvaron la vista de mi esposa. Llegó ciega por la inflamación. Trevor fue más allá de su deber. Su bondad de alma es lo que lo hizo accesible a la energía sagrada.
 
 Asentí. Algunas personas son receptivas porque su ser espiritual está avanzado. La energía no discrimina — fluye hacia donde puede entrar. Y ese día había entrado, había encontrado sus manos, había trabajado con ellas.
 
@@ -150,7 +150,7 @@ El edificio amplificaba. Seguía amplificando. Eso no había cambiado.
 
 Pero yo ahora sabía lo que también se amplificaba — lo que había estado circulando silenciosamente por esa sala durante horas, pasando de pared a pared sin que nadie lo supiera, colándose bajo las puertas de quirófano, encontrando las manos correctas, informando los dedos que suturaban, sosteniendo los ojos que necesitaban ver con claridad en ese momento preciso.
 
-Envié gratitud a los doctores Trevor González y Ruiz, que ese día habían sido lo suficientemente buenos de alma para recibir lo que el cielo ofreció, y lo suficientemente hábiles de manos para no desperdiciarlo.
+Envié gratitud a los doctores Trevor González y Rigoberto Ríos León, que ese día habían sido lo suficientemente buenos de alma para recibir lo que el cielo ofreció, y lo suficientemente hábiles de manos para no desperdiciarlo.
 
 El mantra continuó su trabajo antiguo.
 
