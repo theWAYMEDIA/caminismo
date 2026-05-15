@@ -23,6 +23,10 @@ De manera similar, el Camino Mariposa describe cómo las almas que comienzan enf
 
 Esta transformación no está reservada para unos pocos especiales—es el destino disponible para cada ser consciente, el propósito último para el cual existe todo el sistema educativo cósmico.
 
+<div style="text-align: center;">
+  <img src="/images/hybrid-being_ten_minds_180x180_548kb.jpg" alt="Los tres cuerpos y las diez mentes del ser híbrido alma/espíritu" />
+</div>
+
 ## El Currículum del Alma
 
 Así como las escuelas tienen niveles de grado con currículum apropiado para cada etapa, el Camino Mariposa incluye fases de desarrollo por las que las almas progresan naturalmente:

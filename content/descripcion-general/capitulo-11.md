@@ -20,6 +20,10 @@ Este proceso de evolución abarca incontables vidas y experiencias, cada una ofr
 
 La evolución espiritual comienza con la reprogramación de las mentes-alma para volverse más espirituales. Las almas humanas tienen tres mentes-alma: la mente-alma Muladhara es la más baja, luego sigue la mente-alma Svadhisthana, y por encima de ella se sienta la mente-alma Manipura. Las mentes del ser-superior, las mentes-espíritu ayudan al alma a evolucionar pero solo cuando están despiertas, y todos los Caminantes están espiritualmente despiertos.
 
+<div style="text-align: center;">
+  <img src="/images/hybrid-being_ten_minds_180x180_548kb.jpg" alt="Los tres cuerpos y las diez mentes del ser híbrido alma/espíritu" />
+</div>
+
 La evolución espiritual comienza con el autoconocimiento, que a su vez comienza con la autorreflexión. Los estudiantes júnior en el Camino aprenden a liberarse de la mente-alma egocéntrica conocida como Svadhisthana, para luego mirar dentro de sí mismos y observarse objetivamente.
 
 La gente-alma alcanza una etapa en su autoconciencia para volverse objetiva sobre las ideas fundamentalistas que mantienen en su mente-alma Muladhara. Debido a este crecimiento del alma, obtienen percepción espiritual y poder para liberarse de esos estados mentales, y reprogramar su mente-alma más baja.

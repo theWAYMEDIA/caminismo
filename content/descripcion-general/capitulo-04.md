@@ -27,3 +27,7 @@ Y mientras progresamos en el camino, comenzamos a ver que nuestro viaje individu
 Así que, mientras caminas tu propio sendero único, recuerda que eres parte de un vasto viaje cósmico de transformación. Cada paso que das, cada lección que aprendes, es una ofrenda sagrada al mayor desenvolvimiento de elCAMINO.
 
 Que abraces la belleza y el misterio de tu propio camino evolutivo.
+
+<div style="text-align: center;">
+  <img src="/images/hybrid-being_ten_minds_180x180_548kb.jpg" alt="Los tres cuerpos y las diez mentes del ser híbrido alma/espíritu" />
+</div>

@@ -34,5 +34,8 @@ Una introducción completa a la filosofía y espiritualidad Caminista, presentad
 - [Capítulo 12: Enseñanza Primaria elCAMINO: La obra fundamental del Caminismo](/descripcion-general/capitulo-12/)
 
 ---
+<div style="text-align: center;">
+  <img src="/images/hybrid-being_ten_minds_180x180_548kb.jpg" alt="Los tres cuerpos y las diez mentes del ser híbrido alma/espíritu" />
+</div>
 
 *© 2025, Jean Prieur du Plessis. Editorial: theWAY MEDIA. ISBN eBook: 978-1-998478-86-6. ISBN audioBook: 978-1-998478-85-9.*
