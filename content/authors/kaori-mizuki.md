@@ -1,15 +1,15 @@
 ---
 title: "Kaori Mizuki"
-bio: "Vendedora de pescado y maestra Wayista cuyo trabajo de cuarenta años en el mercado de Kamakura antes del amanecer se convirtió en un estudio sostenido de lo que el Caminismo llama udbhu-kanti: encontrar la verdad divina en exactamente lo que está frente a ti."
-specialties: ["Vida udbhu-kanti", "Comentario sobre Mari de Magadha", "Lo Sagrado en el Trabajo Ordinario", "Enseñanza Wayista Práctica"]
+bio: "Vendedora de pescado y Caminante cuyo trabajo de cuarenta años en el mercado de Kamakura antes del amanecer se convirtió en un estudio sostenido de lo que el Caminismo llama udbhu-kanti: encontrar la verdad divina en exactamente lo que está frente a ti."
+specialties: ["Vida udbhu-kanti", "Comentario sobre Mari de Magadha", "Lo Sagrado en el Trabajo Ordinario", "Enseñanza Caminista Práctica"]
 books: ["Mystic Mother of theWAY", "The Fishmonger's Commentary on the Teaching of theWAY", "Market Meditations: Finding Truth in Ordinary Things", "Finding Heaven in Fish Guts: Celebrating the Humbling Privilege of Awareness"]
-wayist_path: "Kaori encontró las enseñanzas del Señor Jesús y Mari de Magadha a través de comerciantes viajeros, reconociendo en sus palabras la misma verdad que había venido encontrando diariamente en los ritmos de la vida del mercado. Su comprensión Wayista se desarrolló no a través de instrucción formal sino a través de cuarenta años de atención a lo que está directamente frente a ella — pescado, clientes, hielo, luz matutina, y la sabiduría particular de los geckos que observan desde las paredes del mercado sin comentarios."
+wayist_path: "Kaori encontró las enseñanzas del Señor Jesús y Mari de Magadha a través de comerciantes viajeros, reconociendo en sus palabras la misma verdad que había venido encontrando diariamente en los ritmos de la vida del mercado. Su comprensión del Caminismo se desarrolló no a través de instrucción formal sino a través de cuarenta años de atención a lo que está directamente frente a ella — pescado, clientes, hielo, luz matutina, y la sabiduría particular de los geckos que observan desde las paredes del mercado sin comentarios."
 image: "/images/authors/kaori-mizuki-author.jpg"
 social: []
-training: "Autodidacta; trabaja con textos primarios en Prakrit, sánscrito y griego; cuatro décadas de enseñanza Wayista práctica a través del trabajo en el mercado y la escritura personal; comentario sobre los poemas de Mari de Magadha"
+training: "Autodidacta; trabaja con textos primarios en Prakrit, sánscrito y griego; cuatro décadas de enseñanza Caminista práctica a través del trabajo en el mercado y la escritura personal; comentario sobre los poemas de Mari de Magadha"
 ---
 
-*Vendedora de Pescado. Maestra Wayista. Escritora de lo Sagrado Ordinario.*
+*Vendedora de Pescado. Caminante y Maestra. Escritora de lo Sagrado Ordinario.*
 
 Kaori Mizuki (瑶月) ha trabajado en su puesto de pescado cerca del mercado de Kamakura durante más de cuarenta años. Llega antes del amanecer. Acomoda la captura. Observa lo que pasa entre las personas durante las horas del comercio. Ha hecho esto desde antes de que la mayoría de sus lectores nacieran, y no lo considera un telón de fondo para su vida espiritual. Es su vida espiritual.
 

@@ -5,7 +5,7 @@ draft: false
 description: "Una sala de espera de hospital en Puerto Vallarta. Tres horas en una silla de plástico. Y en el rincón, un hombre que no espera — trabaja."
 slug: "la-sala-de-espera"
 categories: ["Poesía y Reflexión", "Vida Espiritual"]
-tags: ["udbhu-kanti", "mantra de sanación", "pneumaterapia", "práctica caminante", "México", "Japón", "lo sagrado cotidiano", "wayista"]
+tags: ["udbhu-kanti", "mantra de sanación", "pneumaterapia", "práctica caminante", "México", "Japón", "lo sagrado cotidiano", "caminista"]
 author: "Kaori Mizuki"
 reading_time: 8
 featured: false

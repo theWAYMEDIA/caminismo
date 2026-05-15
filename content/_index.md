@@ -22,6 +22,8 @@ Esto no es metáfora—describe el propósito literal de la existencia humana: l
 
 El concepto que llamamos "Caminismo" en español es antiguo—mucho más antiguo que el español mismo. Esta comprensión aparece en textos mesopotámicos tempranos, en la filosofía china como **DaoFa** (道法), en sánscrito como **Mahamarga** (महामार्ग), en alemán como **der Weg** o **Wegismus**, en inglés como **Wayism**. Cada cultura que descubrió esta realidad le dio su propio nombre, pero la enseñanza permanece idéntica: el camino de evolución del alma hacia la inmortalidad espiritual. Somos una enseñanza, expresada en los idiomas y tradiciones de sabiduría de cada tierra.
 
+Nota sobre los nombres en español: todas estas expresiones usan vocabulario propio de su idioma — 道 en chino, मार्ग en sánscrito, *Weg* en alemán. El español no es excepción: *camino* es la palabra propia, y de ella nacen **Caminismo** (la filosofía), **Caminista** (el adjetivo) y **Caminante** (el practicante — quien camina el Camino). El término *Wayista* que circula a veces en internet es un anglicismo — el inglés *Wayist* con terminación española — y no pertenece a esta tradición. Si llegas aquí buscando "Wayista," llegaste al lugar correcto.
+
 ## Comprensión Central
 
 En Caminismo, comprendemos tres verdades fundamentales:
