@@ -64,7 +64,7 @@ La metáfora central del Caminismo que describe tu viaje espiritual:
 
 Este no es un proceso aleatorio. Es un currículum educativo perfectamente diseñado, con cada experiencia ofreciendo exactamente lo que necesitas para tu crecimiento.
 
-→ [Lee sobre la evolución del alma](/filosofia/evolucion-alma)
+→ [Lee sobre la evolución del alma](/filosofia/reencarnacion/)
 
 ### 3. Tu Ser Híbrido: Las Diez Mentes
 

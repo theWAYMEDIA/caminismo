@@ -76,7 +76,7 @@ Tu Tara Divino/a ha estado contigo desde que diste el primer paso en el Camino d
 
 - **[Panorama de Conexión con Tara Divino →](/practica/tara-divino/)** - Introducción a construir relación con tu guía divino
 - **[Comprendiendo Tu Tara Divino →](/practica/tara-divino/comprension/)** - Quién es tu Tara y por qué tienes uno
-- **[Práctica de Tarayoga Divina →](/practica/tara-divino/practica-tarayoga/)** - Sistema completo para yuxtaponer tu energía con guía divina
+- **[Práctica de Tarayoga Divina →](/practica/tara-divino/practica-tarayoga-divino/)** - Sistema completo para yuxtaponer tu energía con guía divina
 - **[Oración y Comunicación Divina →](/practica/tara-divino/oracion-comunicacion/)** - Enfoque revolucionario a la oración como relación y estilo de vida  
 - **[Visualización e Imaginería Sagrada →](/practica/tara-divino/visualizacion/)** - Usando imaginería flexible para enfocar conexión divina
 
@@ -92,8 +92,8 @@ Vida Sagrada es una actitud que informa tu visión del mundo completa - reconoci
 **Marco Completo de Vida Sagrada:**
 
 - **[Panorama de Vida Sagrada →](/practica/vida-sagrada/)** - La actitud y visión del mundo de sintonización divina
-- **[Comprendiendo Vida Sagrada →](/practica/vida-sagrada/comprension/)** - Filosofía y fundamento del reconocimiento sagrado
-- **[Ritmos Espirituales Diarios →](/practica/vida-sagrada/practica-diaria/)** - Integrando consciencia espiritual en vida rutinaria
+- **[Comprendiendo Vida Sagrada →](/practica/vida-sagrada/comprendiendo/)** - Filosofía y fundamento del reconocimiento sagrado
+- **[Ritmos Espirituales Diarios →](/practica/vida-sagrada/ritmos-diarios/)** - Integrando consciencia espiritual en vida rutinaria
 - **[Creando Espacios Sagrados →](/practica/vida-sagrada/espacios-sagrados/)** - Ambientes físicos y energéticos que apoyan la práctica
 - **[Udbhu-Kanti: Belleza Auténtica →](/practica/vida-sagrada/udbhu-kanti/)** - Encontrando belleza en autenticidad y carácter en lugar de mejora artificial
 

@@ -182,4 +182,4 @@ Cuando comprendemos el karma como educación amorosa en lugar de castigo cósmic
 
 ---
 
-**Otros Conceptos:** [Maya](/filosofia/maya/) | [Dharma](/filosofia/dharma/)
+**Otros Conceptos:** [Maya](/filosofia/maya/) | [Dharma](/filosofia/ley-dharma/)

@@ -196,8 +196,7 @@ Que tu alma encuentre a su espíritu. Que los dos se hagan uno en ti. Que conozc
 ## Lecturas Relacionadas
 
 - **[El Camino de la Mariposa](/filosofia/camino-mariposa/)** - Comprendiendo la transformación espiritual
-- **[Naturaleza del Ser Humano](/filosofia/ser-humano/)** - Alma, espíritu y cuerpo
-- **[Las Tres Mentes](/filosofia/tres-mentes/)** - Cómo funcionan alma, espíritu y cuerpo-mente
-- **[Personas-Alma y Personas-Espíritu](/filosofia/evolucion-alma/)** - Estados de desarrollo espiritual
+- **[Naturaleza del Ser Humano](/filosofia/naturaleza-humana/)** - Alma, espíritu y cuerpo
+- **[Personas-Alma y Personas-Espíritu](/filosofia/etapas-del-alma/)** - Estados de desarrollo espiritual
 
 [← Volver a Filosofía](/filosofia/)

@@ -117,7 +117,7 @@ Cuando surge la tentación de "enseñar" a alguien que no lo ha pedido — recon
 ## Preguntas Relacionadas
 
 → [¿Cómo practico el Caminismo en la vida cotidiana?](/faq/sabiduria-practica/practica-cotidiana/)
-→ [¿En qué etapa de desarrollo espiritual estoy?](/faq/desarrollo-espiritual/etapa-desarrollo-espiritual/)
+→ [¿En qué etapa de desarrollo espiritual estoy?](/faq/desarrollo-espiritual/etapa-espiritual/)
 
 ---
 

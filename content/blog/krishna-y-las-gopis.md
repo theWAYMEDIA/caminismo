@@ -274,7 +274,7 @@ Los dos - tu alma y el espíritu divino - están hechos el uno para el otro. Est
 
 - **[El Matrimonio Místico](/filosofia/matrimonio-mistico/)** - Marco esencial para comprender esta enseñanza
 - **[El Camino de la Mariposa](/filosofia/camino-mariposa/)** - El proceso de transformación alma-espíritu
-- **[Personas-Alma y Personas-Espíritu](/filosofia/evolucion-alma/)** - Etapas de desarrollo espiritual
-- **[Conectando con Tu Tara Divino/a](/practica/tara/)** - Práctica de relación íntima con lo divino
+- **[Personas-Alma y Personas-Espíritu](/filosofia/etapas-del-alma/)** - Etapas de desarrollo espiritual
+- **[Conectando con Tu Tara Divino/a](/practica/tara-divino/)** - Práctica de relación íntima con lo divino
 
 [← Volver a Filosofía](/filosofia/) | [El Matrimonio Místico](/filosofia/matrimonio-mistico/)

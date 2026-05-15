@@ -100,7 +100,7 @@ Los Taras Divinos no anularán tus elecciones, ni siquiera las destructivas:
 
 ## El Sistema de Diez Mentes en los Seres Híbridos
 
-![Diagrama del Ser Híbrido mostrando las diez mentes](/images/hybrid-being_ten_minds_180x180_548kb.png)
+![Diagrama del Ser Híbrido mostrando las diez mentes](/images/general/ser-hibrido-diez-mentes.jpg)
 
 ### Mentes del Dominio Material (3)
 

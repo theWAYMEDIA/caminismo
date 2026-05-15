@@ -123,8 +123,8 @@ Cuando estés listo para comprender el Camino de la Mariposa más profundamente:
 - **[Descripción General del Caminismo](/descripcion-general/)** - Introducción completa en doce capítulos
 - **[Comienza Aquí](/comienza-aqui/)** - Tu guía de introducción al Caminismo
 - [¿Qué es Realmente el Karma?](/filosofia/karma/) - No castigo, sino tu currículum personalizado
-- [El Viaje del Alma](/filosofia/evolucion-del-alma/) - Por qué nos encarnamos como humanos
-- [Viviendo Caminismo Diariamente](/practica/sabiduria-diaria/) - Aplicaciones prácticas para la vida moderna
+- [El Viaje del Alma](/filosofia/reencarnacion/) - Por qué nos encarnamos como humanos
+- [Viviendo Caminismo Diariamente](/practica/vida-sagrada/) - Aplicaciones prácticas para la vida moderna
 - [Comprendiendo Etapas del Alma](/filosofia/etapas-del-alma/) - Dónde estás en el camino
 
 ---
