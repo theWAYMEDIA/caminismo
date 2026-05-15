@@ -84,15 +84,22 @@ Y entonces lo supe con certeza. Lo que había leído en su postura durante horas
 
 Una luz sagrada llenó mi pecho.
 
-El Mantra de Sanación Caminista. *Om Mārge Divya Śodhana.* En sánscrito antiguo, cantado por voces que conocen el peso de lo que cargan:
+<div style="margin: 2em auto; max-width: 560px; padding: 1.5em 2em; border: 1px solid #d4c9a8; border-radius: 6px; background-color: rgba(212, 201, 168, 0.08); text-align: center; line-height: 1.9;">
+
+**El Mantra de Sanación Caminista**
+*Om Mārge Divya Śodhana*
 
 *Om jyotiḥ prāṇena vahati*
 *Rogaṃ hṛdayena śodhyate*
 *Divya śaktiḥ pravartatā svaḥa*
 
+<span style="display: block; margin-top: 1em; border-top: 1px solid #d4c9a8; padding-top: 1em; font-size: 0.92em;">
 *La luz fluye a través del aliento.*
 *La enfermedad es purificada por el corazón.*
 *Poder divino, que fluya desde el cielo.*
+</span>
+
+</div>
 
 Dos personas de la misma tradición antigua, encontradas en un jardín de hospital en México, unidas por un audífono y un cigarro y algo que ninguno de los dos necesitaba explicarle al otro.
 
