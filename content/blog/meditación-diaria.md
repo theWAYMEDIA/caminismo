@@ -193,7 +193,7 @@ No prometas practicar 2 horas diarias si vida no lo permite. Mejor:
 ### Recursos para Continuar
 
 **En este sitio**:
-- [Técnicas de Meditación Avanzadas](/practica/meditacion-avanzada/)
+- [Técnicas de Meditación](/practica/meditacion-contemplacion/)
 - [Trabajando con Tu Tara Divino/a](/practica/tara-divino/)
 - [Glosario de Términos de Meditación](/glosario/#meditacion)
 

@@ -29,7 +29,12 @@
         {{ end }}
     {{ end }}
 </nav>
+<div class="site-search-wrap">
+    <input type="search" id="site-search" placeholder="Buscar…" autocomplete="off" spellcheck="false" aria-label="Buscar en el sitio">
+    <div id="site-search-results" class="site-search-results" role="listbox" aria-label="Resultados de búsqueda"></div>
+</div>
     </header>
+<script src="/js/search.js" defer></script>
     
     <main>
         {{ block "main" . }}{{ end }}

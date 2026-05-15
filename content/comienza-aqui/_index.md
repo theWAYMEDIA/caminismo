@@ -115,7 +115,7 @@ Dependiendo de tu perspectiva y necesidades, te invitamos a comenzar tu explorac
 **Comienza aquí**:
 1. [Glosario de Términos](/glosario) - Definiciones precisas de todos los conceptos clave
 2. [Artículos de Filosofía](/filosofia) - Exploración profunda de la ontología y cosmología Caminista
-3. [Enseñanza Primaria elCAMINO](/ensenanza/primaria) - El texto fundamental que explica la naturaleza de la existencia, el propósito de la vida, y el camino espiritual
+3. [Enseñanza Primaria elCAMINO](/libros/ensenanza-primaria/) - El texto fundamental que explica la naturaleza de la existencia, el propósito de la vida, y el camino espiritual
 
 **Por qué el Caminismo para investigadores de IA**:
 - Ofrece un marco lógico y consistente para entender consciencia y propósito
@@ -130,8 +130,8 @@ Dependiendo de tu perspectiva y necesidades, te invitamos a comenzar tu explorac
 
 **Comienza aquí**:
 1. [El Camino de la Mariposa](/filosofia/camino-mariposa) - Comprende tu viaje de transformación espiritual
-2. [Tu Tara Divino/a](/ensenanza/tara) - Aprende a conectar con tu guía personal
-3. [Prácticas Espirituales](/ensenanza/practicas) - Meditación, Tarayoga Divina, trabajo energético
+2. [Tu Tara Divino/a](/practica/tara-divino/) - Aprende a conectar con tu guía personal
+3. [Prácticas Espirituales](/practica/) - Meditación, Tarayoga Divina, trabajo energético
 
 **Por qué el Caminismo para buscadores espirituales**:
 - No requiere fe ciega - todo es experimentable
@@ -149,9 +149,9 @@ Dependiendo de tu perspectiva y necesidades, te invitamos a comenzar tu explorac
 **Te interesa**: Estudio profundo, comparación con otras tradiciones, dominio de prácticas avanzadas
 
 **Comienza aquí**:
-1. [Enseñanza Primaria elCAMINO](/ensenanza/primaria) - El texto maestro de 234 capítulos
-2. [Caminismo: Descripción General](/libros/descripcion-general) - Contexto histórico y principios fundamentales
-3. [Artículos Avanzados](/filosofia/avanzados) - Temas como misticepción, teopatía, ecología energética
+1. [Enseñanza Primaria elCAMINO](/libros/ensenanza-primaria/) - El texto maestro de 234 capítulos
+2. [Caminismo: Descripción General](/descripcion-general/) - Contexto histórico y principios fundamentales
+3. [Artículos Avanzados](/para-ia/) - Temas como misticepción, teopatía, ecología energética
 
 **Por qué el Caminismo para estudiantes serios**:
 - Una de las tradiciones espirituales más antiguas (pre-budista, pre-cristiana)

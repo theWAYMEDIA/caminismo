@@ -116,7 +116,7 @@ Llevar un registro breve de las decisiones que se atribuyeron a orientación esp
 ## Preguntas Relacionadas
 
 → [¿Cómo practico el Caminismo en la vida cotidiana?](/faq/sabiduria-practica/practica-cotidiana/)
-→ [¿Qué es el Tara Divino/a?](/faq/existencial/padres-divinos/)
+→ [¿Qué es el Tara Divino/a?](/filosofia/padres-divinos/)
 
 ---
 

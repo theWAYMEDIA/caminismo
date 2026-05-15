@@ -294,8 +294,8 @@ Estamos constantemente expandiendo este FAQ. Si tienes pregunta que no ves aquí
 ### **Preguntas Más Populares Para Comenzar**
 
 1. 🎯 [¿Cuál es el propósito de la vida?](/faq/existencial/proposito-vida/)
-2. 🦋 [¿Qué es el Camino de la Mariposa?](/faq/existencial/camino-mariposa/)
-3. 📿 [¿Cómo comienzo mi viaje espiritual?](/faq/desarrollo-espiritual/como-comenzar/)
+2. 🦋 [¿Qué es el Camino de la Mariposa?](/filosofia/camino-mariposa/)
+3. 📿 [¿Cómo comienzo mi viaje espiritual?](/comienza-aqui/)
 4. 🔄 [¿Por qué existe el sufrimiento?](/faq/existencial/por-que-sufrimiento/)
 5. 💭 [¿Qué sucede después de la muerte?](/faq/existencial/despues-muerte/)
 

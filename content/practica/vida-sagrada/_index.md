@@ -224,6 +224,6 @@ Cada persona que vive con consciencia sagrada creciente contribuye a la evoluci�
 - **[Udbhu-Kanti: Belleza Auténtica →](/practica/vida-sagrada/udbhu-kanti/)** - Encontrando belleza en autenticidad y carácter
 - **[Creando Espacios Sagrados →](/practica/vida-sagrada/espacios-sagrados/)** - Ambientes físicos y energéticos
 - **[Ritmos Espirituales Diarios →](/practica/vida-sagrada/ritmos-diarios/)** - Integrando práctica en vida rutinaria
-- **[Viviendo los Principios de Integridad →](/practica/vida-sagrada/integridad/)** - Aplicación práctica de valores Caministas
+- **[Plenitud y Florecimiento →](/practica/vida-sagrada/plenitud/)** - Viviendo con integridad, propósito y valores Caministas
 
 [← Volver a Práctica](/practica/)

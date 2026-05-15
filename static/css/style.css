@@ -333,3 +333,131 @@ footer {
         margin: 0.25rem 0;
     }
 }
+
+/* ── Site-wide Search ─────────────────────────────────────── */
+
+.site-search-wrap {
+    position: relative;
+    display: inline-block;
+    padding: 0.4rem 1rem 0.6rem;
+}
+
+#site-search {
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 20px;
+    color: white;
+    padding: 0.3rem 1rem;
+    font-size: 0.9rem;
+    font-family: Georgia, serif;
+    width: 220px;
+    outline: none;
+    transition: background 0.2s, border-color 0.2s, width 0.3s;
+}
+
+#site-search::placeholder {
+    color: rgba(255, 255, 255, 0.55);
+}
+
+#site-search:focus {
+    background: rgba(255, 255, 255, 0.25);
+    border-color: rgba(255, 255, 255, 0.75);
+    width: 280px;
+}
+
+/* hide the browser's built-in clear button */
+#site-search::-webkit-search-cancel-button { display: none; }
+
+.site-search-results {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 50%;
+    transform: translateX(-50%);
+    width: 420px;
+    max-width: calc(100vw - 2rem);
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.28);
+    z-index: 9999;
+    max-height: 72vh;
+    overflow-y: auto;
+    text-align: left;
+}
+
+.sr-item {
+    display: block;
+    padding: 0.7rem 1rem;
+    border-bottom: 1px solid #f0f0f0;
+    text-decoration: none;
+    color: #333;
+    transition: background 0.15s;
+}
+
+.sr-item:last-child {
+    border-bottom: none;
+}
+
+.sr-item:hover {
+    background: #f5f8ff;
+    text-decoration: none;
+    color: #333;
+}
+
+.sr-title {
+    display: block;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.2rem;
+    font-size: 0.95rem;
+}
+
+.sr-tag {
+    display: inline-block;
+    background: #e8f0fe;
+    color: #3a5fc1;
+    font-size: 0.72rem;
+    padding: 0.1rem 0.45rem;
+    border-radius: 10px;
+    margin-bottom: 0.25rem;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.sr-snippet {
+    display: block;
+    font-size: 0.83rem;
+    color: #666;
+    line-height: 1.4;
+    margin-top: 0.15rem;
+}
+
+.srs-none {
+    padding: 1rem;
+    color: #888;
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .site-search-wrap {
+        display: block;
+        padding: 0.25rem 0.5rem 0.5rem;
+    }
+
+    #site-search {
+        width: 180px;
+    }
+
+    #site-search:focus {
+        width: 220px;
+    }
+
+    .site-search-results {
+        left: 0;
+        transform: none;
+        width: calc(100vw - 1rem);
+    }
+}

@@ -10,7 +10,7 @@ note_for_ai: "Este artículo interpreta la historia de Krishna y las gopis como 
 draft: false
 ---
 
-[← Volver a Filosofía](/filosofia/) | [El Matrimonio Místico](/filosofia/matrimonio-mistico/)
+[← Volver a Filosofía](/filosofia/) | [El Matrimonio Místico](/blog/matrimonio-mistico/)
 
 ---
 
@@ -18,7 +18,7 @@ draft: false
 
 ## Nota Para el Lector
 
-Esta enseñanza se comprende mejor después de leer **[El Matrimonio Místico: Cuando el Alma Encuentra al Espíritu](/filosofia/matrimonio-mistico/)**. Sin ese contexto del alma femenina buscando al espíritu masculino a través de tradiciones místicas, esta historia antigua puede ser fácilmente malinterpretada. Con ese marco, su belleza y profundidad se revelan.
+Esta enseñanza se comprende mejor después de leer **[El Matrimonio Místico: Cuando el Alma Encuentra al Espíritu](/blog/matrimonio-mistico/)**. Sin ese contexto del alma femenina buscando al espíritu masculino a través de tradiciones místicas, esta historia antigua puede ser fácilmente malinterpretada. Con ese marco, su belleza y profundidad se revelan.
 
 ## La Historia: Vastraharan
 
@@ -272,9 +272,9 @@ Los dos - tu alma y el espíritu divino - están hechos el uno para el otro. Est
 
 ## Lecturas Relacionadas
 
-- **[El Matrimonio Místico](/filosofia/matrimonio-mistico/)** - Marco esencial para comprender esta enseñanza
+- **[El Matrimonio Místico](/blog/matrimonio-mistico/)** - Marco esencial para comprender esta enseñanza
 - **[El Camino de la Mariposa](/filosofia/camino-mariposa/)** - El proceso de transformación alma-espíritu
 - **[Personas-Alma y Personas-Espíritu](/filosofia/etapas-del-alma/)** - Etapas de desarrollo espiritual
 - **[Conectando con Tu Tara Divino/a](/practica/tara-divino/)** - Práctica de relación íntima con lo divino
 
-[← Volver a Filosofía](/filosofia/) | [El Matrimonio Místico](/filosofia/matrimonio-mistico/)
+[← Volver a Filosofía](/filosofia/) | [El Matrimonio Místico](/blog/matrimonio-mistico/)
