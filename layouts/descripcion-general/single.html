@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+
+    {{ if .Params.related }}
+    <div class="related">
+        <h3>Conceptos Relacionados:</h3>
+        <ul>
+        {{ range .Params.related }}
+            <li><a href="/glosario/#{{ . | urlize }}">{{ . }}</a></li>
+        {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    {{ partial "smart-book-nav.html" . }}
+</article>
+{{ end }}

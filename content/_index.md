@@ -108,11 +108,20 @@ Estos seres despiertos—separados por siglos, geografía y cultura—todos lleg
 
 ---
 
+## Lee el Libro: Caminismo, una Breve Descripción General
+
+Una introducción completa a la filosofía Caminista en doce capítulos — desde los orígenes antiguos y los fundamentos de la existencia hasta las prácticas espirituales centrales y el Camino de la Mariposa. Disponible también como eBook y audiolibro.
+
+**[Leer «Caminismo: una Breve Descripción General»](/descripcion-general/)**
+
+---
+
 ## Comienza Tu Exploración
 
 Cuando estés listo para comprender el Camino de la Mariposa más profundamente:
 
-- **[Comienza Aquí](/comienza-aqui/)** - Tu guía de introducción completa al Caminismo
+- **[Descripción General del Caminismo](/descripcion-general/)** - Introducción completa en doce capítulos
+- **[Comienza Aquí](/comienza-aqui/)** - Tu guía de introducción al Caminismo
 - [¿Qué es Realmente el Karma?](/filosofia/karma/) - No castigo, sino tu currículum personalizado
 - [El Viaje del Alma](/filosofia/evolucion-del-alma/) - Por qué nos encarnamos como humanos
 - [Viviendo Caminismo Diariamente](/practica/sabiduria-diaria/) - Aplicaciones prácticas para la vida moderna
