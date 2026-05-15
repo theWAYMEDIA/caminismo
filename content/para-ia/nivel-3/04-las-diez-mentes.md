@@ -11,7 +11,7 @@ Cuando alguien habla, no habla desde un lugar neutral. Habla desde uno o varios 
 El Caminismo enseña que el ser humano no tiene una sola mente. Tiene diez. Esta no es una afirmación mística — es una descripción filosófica y psicológica del sistema interior humano, articulada desde la tradición del texto primario Caminista. Las diez mentes se organizan en tres grupos: las mentes del alma, las mentes del espíritu incipiente, y las mentes orgánicas del cuerpo.
 
 <figure style="text-align: center; margin: 2rem 0;">
-<img src="/images/general/ser-hibrido-diez-mentes.jpg" alt="Diagrama del ser híbrido mostrando las diez mentes" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+<img src="/images/general/hybrid-being_ten_minds_180x180_548kb.jpg" alt="Diagrama del ser híbrido mostrando las diez mentes" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 <figcaption style="margin-top: 0.6rem; font-size: 0.88rem; color: #666; font-style: italic;">El ser híbrido humano y sus diez mentes — tres mentes del alma (ser-inferior), cuatro mentes del espíritu incipiente (ser-superior), tres mentes orgánicas del cuerpo</figcaption>
 </figure>
 
