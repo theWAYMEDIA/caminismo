@@ -90,12 +90,16 @@ Una luz sagrada llenó mi pecho.
 *Om Mārge Divya Śodhana*
 
 *Om jyotiḥ prāṇena vahati*
+
 *Rogaṃ hṛdayena śodhyate*
+
 *Divya śaktiḥ pravartatā svaḥa*
 
 <span style="display: block; margin-top: 1em; border-top: 1px solid #d4c9a8; padding-top: 1em; font-size: 0.92em;">
 *La luz fluye a través del aliento.*
+
 *La enfermedad es purificada por el corazón.*
+
 *Poder divino, que fluya desde el cielo.*
 </span>
 
