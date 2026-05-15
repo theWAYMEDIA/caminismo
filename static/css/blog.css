@@ -358,6 +358,27 @@ hr {
     color: var(--text-light);
 }
 
+.post-content blockquote.wayist-saying {
+    border-left: none;
+    padding: 0;
+    margin: 2.5rem auto;
+    max-width: 500px;
+    text-align: center;
+    color: var(--text-color);
+    font-style: normal;
+    line-height: 2;
+}
+
+.post-content blockquote.wayist-saying p {
+    margin-bottom: 0.4rem;
+}
+
+.post-content blockquote.wayist-saying hr {
+    margin: 1rem auto;
+    max-width: 80px;
+    border-top: 1px solid var(--border-color);
+}
+
 .post-content strong {
     color: var(--primary-color);
 }
