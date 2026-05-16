@@ -123,6 +123,7 @@ Una introducción completa a la filosofía Caminista en doce capítulos — desd
 Cuando estés listo para comprender el Camino de la Mariposa más profundamente:
 
 - **[Descripción General del Caminismo](/descripcion-general/)** - Introducción completa en doce capítulos
+- **[Enseñanza Primaria elCAMINO](/ensenanza-primaria/)** — El texto fundamental completo, 116 capítulos
 - **[Comienza Aquí](/comienza-aqui/)** - Tu guía de introducción al Caminismo
 - [¿Qué es Realmente el Karma?](/filosofia/karma/) - No castigo, sino tu currículum personalizado
 - [El Viaje del Alma](/filosofia/reencarnacion/) - Por qué nos encarnamos como humanos

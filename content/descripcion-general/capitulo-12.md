@@ -8,6 +8,8 @@ weight: 12
 
 Para concluir nuestra serie, queremos presentarte la obra fundamental del Caminismo: «ENSEÑANZA PRIMARIA elCAMINO: la Naturaleza de la Existencia, el Propósito de la Vida, y el Camino Espiritual», editada por Salvar Dàosenglu y disponible a través de [Amazon](https://www.amazon.com/ENSE%C3%91ANZA-PRIMARIA-elCAMINO-Naturaleza-Existencia/dp/1998478831).
 
+La **[edición web completa](/ensenanza-primaria/)** está disponible aquí en caminismo.org — los 116 capítulos para leer en línea, capítulo por capítulo.
+
 <!--more-->
 
 Este texto esencial encapsula la sabiduría atemporal que ha servido como fundamento del entendimiento espiritual a través de milenios y culturas. Esta histórica traducción presenta las enseñanzas fundamentales del sendero Caminista -- una antigua tradición espiritual que ilumina el propósito de la existencia humana y el viaje del alma.

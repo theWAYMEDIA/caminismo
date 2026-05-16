@@ -699,6 +699,68 @@ hr {
     margin-bottom: 2rem;
 }
 
+/* === ENSENANZA PRIMARIA — BOOK CHAPTER === */
+.book-chapter {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.chapter-part-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-light);
+    margin-bottom: 0.5rem;
+}
+
+.chapter-subtitle {
+    font-size: 1.2rem;
+    color: var(--text-light);
+    font-style: italic;
+    margin-top: -0.5rem;
+    margin-bottom: 2rem;
+}
+
+.buy-the-book {
+    margin: 3rem 0 1rem;
+    padding: 1.5rem;
+    background: var(--bg-gray);
+    border-radius: 6px;
+    text-align: center;
+}
+
+.buy-the-book p {
+    margin-bottom: 1rem;
+    color: var(--text-light);
+}
+
+.cta-button {
+    display: inline-block;
+    background: var(--primary-color);
+    color: white;
+    padding: 0.6rem 1.4rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: background 0.2s;
+}
+
+.cta-button:hover {
+    background: var(--link-hover);
+    color: white;
+    text-decoration: none;
+}
+
+.chapter-copyright {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
 /* === RESPONSIVE AUTHOR === */
 @media (max-width: 768px) {
     .author-card {

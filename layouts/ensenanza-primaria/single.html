@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="book-chapter">
+    <div class="chapter-part-label">{{ .Params.part }}</div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="chapter-subtitle">{{ . }}</p>{{ end }}
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+
+    {{ partial "smart-book-nav.html" . }}
+
+    <aside class="buy-the-book">
+        <p>¿Te resulta útil esta enseñanza? El libro impreso está disponible en librerías y en Amazon.</p>
+        <a href="/ensenanza-primaria/#comprar" class="cta-button">Comprar el libro</a>
+    </aside>
+
+    <footer class="chapter-copyright">
+        <p>© 2026 Caminismo A.C. Edición web de <em>Enseñanza Primaria elCAMINO</em> (ISBN 978-1-997681-24-3). Todos los derechos reservados. Reproducción parcial o total prohibida sin permiso escrito.</p>
+    </footer>
+</article>
+{{ end }}
