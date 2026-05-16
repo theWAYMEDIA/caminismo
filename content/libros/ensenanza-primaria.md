@@ -12,6 +12,8 @@ weight: 10
 
 La **Enseñanza Primaria elCAMINO** es el texto fundamental que presenta los principios esenciales de la filosofía espiritual Caminista. Con 234 capítulos de sabiduría profunda, estas enseñanzas ofrecen respuestas claras a las preguntas más profundas de la existencia humana.
 
+**[Leer el Libro →](/ensenanza-primaria/)**
+
 ---
 
 ## 📖 **Acerca de Este Libro**
