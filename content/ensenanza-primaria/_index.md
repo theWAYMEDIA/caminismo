@@ -10,7 +10,7 @@ weight: 30
 la Naturaleza de la Existencia, el Propósito de la Vida, y el Camino Espiritual
 ---
 
-*ISBN: 978-1-997681-24-3 | 2026 Caminismo A.C. (Mexico) | *
+*ISBN: 978-1-997681-24-3 | 2026 Caminismo A.C. (Mexico) |*
 
 En sus manos descansa un tesoro de sabiduría antigua, un compendio de enseñanzas que abarcan milenios y atraviesan el globo. Esta obra ofrece una visión de las profundas percepciones espirituales que han guiado a los buscadores en el Camino de la transformación desde tiempos inmemoriales.
 
