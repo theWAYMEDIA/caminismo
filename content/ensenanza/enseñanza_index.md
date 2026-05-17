@@ -97,7 +97,7 @@ Esta traducción al español ha sido cuidadosamente realizada siguiendo el **Gu�
 ## Contacto y Consultas
 
 Para preguntas sobre la enseñanza o el estudio:
-- **Correo:** admin@wayist.life
+- **Correo:** admin /AT /wayist.life
 - **Comunidad:** [wayist.life](https://wayist.life)
 - **Sitio principal:** [wayism.org](https://wayism.org)
 
