@@ -1,6 +1,6 @@
 ---
 title: "La Sala de Espera"
-date: 2026-05-13
+date: 2026-03-05
 draft: false
 description: "Una sala de espera de hospital en Puerto Vallarta. Tres horas en una silla de plástico. Y en el rincón, un hombre que no espera — trabaja."
 slug: "la-sala-de-espera"
@@ -54,7 +54,7 @@ Me pregunté: ¿a quién conoces tú?
 
 ---
 
-Cuando el Dr. Trevor González salió, lo supe antes de que llegara al hombre del rincón. Había algo en su paso — no urgencia, sino intención. Se inclinó hacia el hombre, dijo algo en voz baja.
+Cuando el Dr. Trevor salió, lo supe antes de que llegara al hombre del rincón. Había algo en su paso — no urgencia, sino intención. Se inclinó hacia el hombre, dijo algo en voz baja.
 
 El hombre del rincón abrió los ojos.
 
@@ -122,7 +122,7 @@ Miré hacia la ventana. La sala de espera brillaba desde adentro con su luz fluo
 
 —¿Cuál fue la buena noticia? —le pregunté.
 
-—Los doctores Trevor González y Rigoberto Ríos León. Salvaron la vista de mi esposa. Llegó ciega por la inflamación. Trevor fue más allá de su deber. Su bondad de alma es lo que lo hizo accesible a la energía sagrada.
+—Los doctores Trevor Pineda González y Rigoberto Ríos León. Salvaron la vista de mi esposa. Llegó ciega por la inflamación. Trevor fue más allá de su deber. Su bondad de alma es lo que lo hizo accesible a la energía sagrada.
 
 Asentí. Algunas personas son receptivas porque su ser espiritual está avanzado. La energía no discrimina — fluye hacia donde puede entrar. Y ese día había entrado, había encontrado sus manos, había trabajado con ellas.
 
@@ -154,7 +154,7 @@ El edificio amplificaba. Seguía amplificando. Eso no había cambiado.
 
 Pero yo ahora sabía lo que también se amplificaba — lo que había estado circulando silenciosamente por esa sala durante horas, pasando de pared a pared sin que nadie lo supiera, colándose bajo las puertas de quirófano, encontrando las manos correctas, informando los dedos que suturaban, sosteniendo los ojos que necesitaban ver con claridad en ese momento preciso.
 
-Envié gratitud a los doctores Trevor González y Rigoberto Ríos León, que ese día habían sido lo suficientemente buenos de alma para recibir lo que el cielo ofreció, y lo suficientemente hábiles de manos para no desperdiciarlo.
+Envié gratitud a los doctores Trevor y Rigoberto, que ese día habían sido lo suficientemente buenos de alma para recibir lo que el cielo ofreció, y lo suficientemente hábiles de manos para no desperdiciarlo.
 
 El mantra continuó su trabajo antiguo.
 
