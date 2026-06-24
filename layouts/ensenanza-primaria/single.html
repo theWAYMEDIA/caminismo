@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="book-chapter">
     <div class="chapter-part-label">{{ .Params.part }}</div>
-    <h1>{{ .Title }}</h1>
+    {{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
     {{ with .Params.subtitle }}<p class="chapter-subtitle">{{ . }}</p>{{ end }}
 
     <div class="post-content">

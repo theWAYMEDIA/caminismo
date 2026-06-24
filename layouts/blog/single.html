@@ -43,7 +43,7 @@
             <!-- Article Header -->
             <article class="post-article">
                 <header class="post-header">
-                    <h1>{{ .Title }}</h1>
+                    {{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
                     
                     {{ with .Params.subtitle }}
                         <p class="subtitle">{{ . }}</p>

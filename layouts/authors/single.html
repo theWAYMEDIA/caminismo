@@ -37,7 +37,7 @@
                     </div>
                     {{ end }}
                     <div class="author-profile-info">
-                        <h1>{{ .Title }}</h1>
+                        {{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
                         {{ with .Params.bio }}
                         <p class="author-bio-text">{{ . }}</p>
                         {{ end }}

@@ -1,4 +1,4 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+{{ if not (strings.HasPrefix (strings.TrimSpace .Content) "<h1") }}<h1>{{ .Title }}</h1>{{ end }}
 <div>{{ .Content }}</div>
 {{ end }}
