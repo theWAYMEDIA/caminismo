@@ -1,4 +1,20 @@
-{{ if eq .Section "for-ai" }}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ "/images/general/caminismo_logo.png" | absURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "El Camino de Caminismo Universal, Asociación Civil",
+    "alternateName": "Caminismo A.C."
+  }
+}
+</script>
+{{ else if eq .Section "for-ai" }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
