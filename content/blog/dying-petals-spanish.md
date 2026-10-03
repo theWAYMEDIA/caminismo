@@ -88,4 +88,4 @@ En esta práctica simple de permitir que flores moribundas completen su ofrenda,
 
 ---
 
-*¿Listo para explorar más sobre las prácticas contemplativas caministas? Conéctate con otros practicantes en [Wayist.Life](https://wayist.life). Visita [Wayism.Net](https://wayism.net) para nuestra casa editorial.*
+*¿Listo para explorar más sobre las prácticas contemplativas caministas? Conéctate con otros practicantes en [Wayist.Life](https://wayist.life). Visita [theWAY Media](https://wayism.net) para nuestra casa editorial.*

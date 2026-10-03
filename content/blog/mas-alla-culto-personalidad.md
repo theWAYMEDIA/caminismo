@@ -147,4 +147,4 @@ La autoridad espiritual verdadera no viene del estatus de culto a la personalida
 
 ---
 
-*¿Listo para explorar más sobre desarrollo espiritual auténtico? Conéctate con otros practicantes en [Wayist.Life](https://wayist.life). Visita [Wayism.Net](https://wayism.net) para nuestra casa editorial.*
+*¿Listo para explorar más sobre desarrollo espiritual auténtico? Conéctate con otros practicantes en [Wayist.Life](https://wayist.life). Visita [theWAY Media](https://wayism.net) para nuestra casa editorial.*

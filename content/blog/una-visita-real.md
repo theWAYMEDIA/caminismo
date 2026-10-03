@@ -95,4 +95,4 @@ La visita real ha terminado, pero la enseñanza continúa en cada momento que el
 
 ---
 
-*¿Listo para explorar más sobre encontrar lo sagrado en encuentros con la naturaleza? Conéctate con otros practicantes en [Wayist.Life](https://wayist.life). Visita [Wayism.Net](https://wayism.net) para nuestra casa editorial.*
+*¿Listo para explorar más sobre encontrar lo sagrado en encuentros con la naturaleza? Conéctate con otros practicantes en [Wayist.Life](https://wayist.life). Visita [theWAY Media](https://wayism.net) para nuestra casa editorial.*
